@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<starrysky>
+	<result>success</result>
+	<star>
+		<hrNo>2491</hrNo>
+		<jpName>シリウス</jpName>
+		<enName>Sirius</enName>
+		<alias>青星（あおぼし）</alias>
+		<grade>1.47</grade>
+		<visualGradeFrom>-1.46</visualGradeFrom>
+		<visualGradeTo></visualGradeTo>
+		<weight>1.68</weight>
+		<radius>1.76</radius>
+		<temperature>25200</temperature>
+		<intensityOfLight>26.1</intensityOfLight>
+		<distance>8.6</distance>
+		<rightAscension>06:45:09</rightAscension>
+		<celestialDeclination>-16:42:58</celestialDeclination>
+		
+		
+		<bayerDesignation>1</bayerDesignation>
+		<bayerDesignationNo></bayerDesignationNo>
+		<flamsteedDesignation>9</flamsteedDesignation>
+		<content>冬の宵の南の空を見上げて、どの星よりも明るく青白く輝く星。全天一の明るさを誇っています。都会の夜空でさえ、すぐそれと分かります。</content>
+		<origin>大犬の口元で輝くこの星の名は、その輝きの通り「焼き焦がすもの」という意味のギリシャ語セイリオスに由来します。これは、日の出前の東の空にシリウスが顔を出すようになると、太陽と並んで焼けつくような暑い夏の季節を作り出すと考えられていたことによります。<br>同じように、ヨーロッパでは７月から8月中旬頃までの一番暑い時期のことを「ドッグデイズ（Dog days）」と呼び、これは全天一の輝星シリウスと太陽が並んで昼の空に現れるせいだとしていました。</origin>
+		<confirmed>0</confirmed>
+		
+		
+			
+				<image>
+					<url>http://www.walk-in-starrysky.com/photo.do?cmd=imageView&amp;imagePath=/images/image/800px-Sirius_A_and_B_artwork.jpg</url>
+					<content>シリウスAとシリウスB</content>
+				</image>
+			
+				<image>
+					<url>http://www.walk-in-starrysky.com/photo.do?cmd=imageView&amp;imagePath=/images/image/250px-Sirius_A_and_B_Hubble_photo.jpg</url>
+					<content></content>
+				</image>
+			
+		
+	</star>
+</starrysky>
+

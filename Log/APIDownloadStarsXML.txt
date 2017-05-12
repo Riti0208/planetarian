@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<starrysky>
+	<result>success</result>
+	<star>
+		<hrNo>7592</hrNo>
+		<jpName></jpName>
+		<enName></enName>
+		<alias></alias>
+		<grade></grade>
+		<visualGradeFrom>5.0</visualGradeFrom>
+		<visualGradeTo></visualGradeTo>
+		<weight></weight>
+		<radius></radius>
+		<temperature></temperature>
+	wwaww	<intensityOfLight></intensityOfLight>
+		<distance></distance>
+		<rightAscension>19:53:28</rightAscension>
+		<celestialDeclination>+24:4:47</celestialDeclination>
+		
+		
+		<bayerDesignation></bayerDesignation>
+		<bayerDesignationNo></bayerDesignationNo>
+		<flamsteedDesignation>13</flamsteedDesignation>
+		<content></content>
+		<origin></origin>
+		<confirmed>0</confirmed>
+		
+			<image>
+				<url>http://www.walk-in-starrysky.com/photo.do?cmd=imageView&amp;imagePath=/images/image/noimage.jpg</url>
+				<content>この星の写真をお寄せください！</content>
+			</image>
+		
+		
+	</star>
+</starrysky>
+

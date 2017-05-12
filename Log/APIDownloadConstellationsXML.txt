@@ -1,0 +1,2581 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+
+
+
+
+
+
+
+
+<starrysky>
+	<result>success</result>
+	
+		<consetellation>
+			<id>1</id>
+			<jpName>アンドロメダ</jpName>
+			<enName>Andromeda</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>8961</hrNo>
+				
+					<hrNo>8976</hrNo>
+				
+					<hrNo>8965</hrNo>
+				
+					<hrNo>8762</hrNo>
+				
+					<hrNo>8965</hrNo>
+				
+					<hrNo>154</hrNo>
+				
+					<hrNo>15</hrNo>
+				
+					<hrNo>165</hrNo>
+				
+					<hrNo>215</hrNo>
+				
+					<hrNo>165</hrNo>
+				
+					<hrNo>337</hrNo>
+				
+					<hrNo>603</hrNo>
+				
+					<hrNo>337</hrNo>
+				
+					<hrNo>269</hrNo>
+				
+					<hrNo>226</hrNo>
+				
+					<hrNo>335</hrNo>
+				
+					<hrNo>464</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>2</id>
+			<jpName>ポンプ</jpName>
+			<enName>Antlia</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3765</hrNo>
+				
+					<hrNo>4104</hrNo>
+				
+					<hrNo>4273</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>3</id>
+			<jpName>ふうちょう</jpName>
+			<enName>Apus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5470</hrNo>
+				
+					<hrNo>6102</hrNo>
+				
+					<hrNo>6163</hrNo>
+				
+					<hrNo>5470</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>4</id>
+			<jpName>わし</jpName>
+			<enName>Aquila</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7710</hrNo>
+				
+					<hrNo>7602</hrNo>
+				
+					<hrNo>7557</hrNo>
+				
+					<hrNo>7525</hrNo>
+				
+					<hrNo>7235</hrNo>
+				
+					<hrNo>7176</hrNo>
+				
+					<hrNo>7235</hrNo>
+				
+					<hrNo>7525</hrNo>
+				
+					<hrNo>7377</hrNo>
+				
+					<hrNo>7236</hrNo>
+				
+					<hrNo>7193</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>5</id>
+			<jpName>みずがめ</jpName>
+			<enName>Aquarius</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7950</hrNo>
+				
+					<hrNo>8232</hrNo>
+				
+					<hrNo>8414</hrNo>
+				
+					<hrNo>8518</hrNo>
+				
+					<hrNo>8499</hrNo>
+				
+					<hrNo>8418</hrNo>
+				
+					<hrNo>8499</hrNo>
+				
+					<hrNo>8518</hrNo>
+				
+					<hrNo>8558</hrNo>
+				
+					<hrNo>8539</hrNo>
+				
+					<hrNo>8558</hrNo>
+				
+					<hrNo>8597</hrNo>
+				
+					<hrNo>8698</hrNo>
+				
+					<hrNo>8679</hrNo>
+				
+					<hrNo>8709</hrNo>
+				
+					<hrNo>8812</hrNo>
+				
+					<hrNo>8892</hrNo>
+				
+					<hrNo>8858</hrNo>
+				
+					<hrNo>8834</hrNo>
+				
+					<hrNo>8597</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>6</id>
+			<jpName>さいだん</jpName>
+			<enName>Ara</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>6229</hrNo>
+				
+					<hrNo>6285</hrNo>
+				
+					<hrNo>6295</hrNo>
+				
+					<hrNo>6510</hrNo>
+				
+					<hrNo>6743</hrNo>
+				
+					<hrNo>6510</hrNo>
+				
+					<hrNo>6461</hrNo>
+				
+					<hrNo>6462</hrNo>
+				
+					<hrNo>6500</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>7</id>
+			<jpName>おひつじ</jpName>
+			<enName>Aries</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>838</hrNo>
+				
+					<hrNo>545</hrNo>
+				
+					<hrNo>553</hrNo>
+				
+					<hrNo>617</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>8</id>
+			<jpName>ぎょしゃ</jpName>
+			<enName>Auriga</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1641</hrNo>
+				
+					<hrNo>1605</hrNo>
+				
+					<hrNo>1708</hrNo>
+				
+					<hrNo>2088</hrNo>
+				
+					<hrNo>2077</hrNo>
+				
+					<hrNo>2088</hrNo>
+				
+					<hrNo>2095</hrNo>
+				
+					<hrNo>1791</hrNo>
+				
+					<hrNo>1577</hrNo>
+				
+					<hrNo>1641</hrNo>
+				
+					<hrNo>1708</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>9</id>
+			<jpName>うしかい</jpName>
+			<enName>Bootes</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5185</hrNo>
+				
+					<hrNo>5235</hrNo>
+				
+					<hrNo>5340</hrNo>
+				
+					<hrNo>5478</hrNo>
+				
+					<hrNo>5340</hrNo>
+				
+					<hrNo>5506</hrNo>
+				
+					<hrNo>5681</hrNo>
+				
+					<hrNo>5602</hrNo>
+				
+					<hrNo>5435</hrNo>
+				
+					<hrNo>5351</hrNo>
+				
+					<hrNo>5404</hrNo>
+				
+					<hrNo>5351</hrNo>
+				
+					<hrNo>5435</hrNo>
+				
+					<hrNo>5429</hrNo>
+				
+					<hrNo>5340</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>10</id>
+			<jpName>ちょうこくぐ</jpName>
+			<enName>Caelum</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1502</hrNo>
+				
+					<hrNo>1503</hrNo>
+				
+					<hrNo>1652</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>11</id>
+			<jpName>きりん</jpName>
+			<enName>Camelopardalis</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1148</hrNo>
+				
+					<hrNo>1542</hrNo>
+				
+					<hrNo>1603</hrNo>
+				
+					<hrNo>1568</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>12</id>
+			<jpName>やぎ</jpName>
+			<enName>Capricornus</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7747</hrNo>
+				
+					<hrNo>7776</hrNo>
+				
+					<hrNo>7936</hrNo>
+				
+					<hrNo>7980</hrNo>
+				
+					<hrNo>8204</hrNo>
+				
+					<hrNo>8260</hrNo>
+				
+					<hrNo>8278</hrNo>
+				
+					<hrNo>8322</hrNo>
+				
+					<hrNo>8278</hrNo>
+				
+					<hrNo>8075</hrNo>
+				
+					<hrNo>7776</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>13</id>
+			<jpName>りゅうこつ</jpName>
+			<enName>Carina</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>2326</hrNo>
+				
+					<hrNo>3117</hrNo>
+				
+					<hrNo>3307</hrNo>
+				
+					<hrNo>3699</hrNo>
+				
+					<hrNo>4199</hrNo>
+				
+					<hrNo>3699</hrNo>
+				
+					<hrNo>3685</hrNo>
+				
+					<hrNo>4037</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>14</id>
+			<jpName>カシオペヤ</jpName>
+			<enName>Cassiopeia</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>21</hrNo>
+				
+					<hrNo>168</hrNo>
+				
+					<hrNo>264</hrNo>
+				
+					<hrNo>403</hrNo>
+				
+					<hrNo>542</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>15</id>
+			<jpName>ケンタウルス</jpName>
+			<enName>Centaurus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5459</hrNo>
+				
+					<hrNo>5267</hrNo>
+				
+					<hrNo>5132</hrNo>
+				
+					<hrNo>5231</hrNo>
+				
+					<hrNo>5249</hrNo>
+				
+					<hrNo>5193</hrNo>
+				
+					<hrNo>5190</hrNo>
+				
+					<hrNo>5028</hrNo>
+				
+					<hrNo>5288</hrNo>
+				
+					<hrNo>5440</hrNo>
+				
+					<hrNo>5576</hrNo>
+				
+					<hrNo>5440</hrNo>
+				
+					<hrNo>5288</hrNo>
+				
+					<hrNo>5028</hrNo>
+				
+					<hrNo>4819</hrNo>
+				
+					<hrNo>4743</hrNo>
+				
+					<hrNo>4621</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>16</id>
+			<jpName>ケフェウス</jpName>
+			<enName>Cepheus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>8571</hrNo>
+				
+					<hrNo>8494</hrNo>
+				
+					<hrNo>8465</hrNo>
+				
+					<hrNo>8694</hrNo>
+				
+					<hrNo>8974</hrNo>
+				
+					<hrNo>8238</hrNo>
+				
+					<hrNo>8162</hrNo>
+				
+					<hrNo>8465</hrNo>
+				
+					<hrNo>8162</hrNo>
+				
+					<hrNo>7957</hrNo>
+				
+					<hrNo>7850</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>17</id>
+			<jpName>くじら</jpName>
+			<enName>Cetus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>74</hrNo>
+				
+					<hrNo>188</hrNo>
+				
+					<hrNo>334</hrNo>
+				
+					<hrNo>402</hrNo>
+				
+					<hrNo>539</hrNo>
+				
+					<hrNo>509</hrNo>
+				
+					<hrNo>539</hrNo>
+				
+					<hrNo>681</hrNo>
+				
+					<hrNo>811</hrNo>
+				
+					<hrNo>681</hrNo>
+				
+					<hrNo>779</hrNo>
+				
+					<hrNo>718</hrNo>
+				
+					<hrNo>813</hrNo>
+				
+					<hrNo>896</hrNo>
+				
+					<hrNo>911</hrNo>
+				
+					<hrNo>804</hrNo>
+				
+					<hrNo>718</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>18</id>
+			<jpName>カメレオン</jpName>
+			<enName>Chamaeleon</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3318</hrNo>
+				
+					<hrNo>4174</hrNo>
+				
+					<hrNo>4674</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>19</id>
+			<jpName>コンパス</jpName>
+			<enName>Circinus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5670</hrNo>
+				
+					<hrNo>5463</hrNo>
+				
+					<hrNo>5704</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>20</id>
+			<jpName>おおいぬ</jpName>
+			<enName>Canis Major</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>2294</hrNo>
+				
+					<hrNo>2429</hrNo>
+				
+					<hrNo>2491</hrNo>
+				
+					<hrNo>2574</hrNo>
+				
+					<hrNo>2657</hrNo>
+				
+					<hrNo>2491</hrNo>
+				
+					<hrNo>2693</hrNo>
+				
+					<hrNo>2580</hrNo>
+				
+					<hrNo>2693</hrNo>
+				
+					<hrNo>2618</hrNo>
+				
+					<hrNo>2693</hrNo>
+				
+					<hrNo>2827</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>21</id>
+			<jpName>こいぬ</jpName>
+			<enName>Canis Minor</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>2845</hrNo>
+				
+					<hrNo>2943</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>22</id>
+			<jpName>かに</jpName>
+			<enName>Cancer</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3249</hrNo>
+				
+					<hrNo>3461</hrNo>
+				
+					<hrNo>3572</hrNo>
+				
+					<hrNo>3461</hrNo>
+				
+					<hrNo>3449</hrNo>
+				
+					<hrNo>3475</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>23</id>
+			<jpName>はと</jpName>
+			<enName>Columba</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1862</hrNo>
+				
+					<hrNo>1956</hrNo>
+				
+					<hrNo>2040</hrNo>
+				
+					<hrNo>2120</hrNo>
+				
+					<hrNo>2040</hrNo>
+				
+					<hrNo>2106</hrNo>
+				
+					<hrNo>2296</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>24</id>
+			<jpName>かみのけ</jpName>
+			<enName>Coma Berenices</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>4983</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>25</id>
+			<jpName>みなみのかんむり</jpName>
+			<enName>Corona Australis</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>6951</hrNo>
+				
+					<hrNo>7226</hrNo>
+				
+					<hrNo>7254</hrNo>
+				
+					<hrNo>7259</hrNo>
+				
+					<hrNo>7242</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>26</id>
+			<jpName>かんむり</jpName>
+			<enName>Corona Borealis</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5778</hrNo>
+				
+					<hrNo>5747</hrNo>
+				
+					<hrNo>5793</hrNo>
+				
+					<hrNo>5849</hrNo>
+				
+					<hrNo>5889</hrNo>
+				
+					<hrNo>5947</hrNo>
+				
+					<hrNo>5971</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>27</id>
+			<jpName>コップ</jpName>
+			<enName>Crater</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>4287</hrNo>
+				
+					<hrNo>4343</hrNo>
+				
+					<hrNo>4405</hrNo>
+				
+					<hrNo>4514</hrNo>
+				
+					<hrNo>4567</hrNo>
+				
+					<hrNo>4468</hrNo>
+				
+					<hrNo>4402</hrNo>
+				
+					<hrNo>4382</hrNo>
+				
+					<hrNo>4287</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>28</id>
+			<jpName>みなみじゅうじ</jpName>
+			<enName>Crux</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>4730</hrNo>
+				
+					<hrNo>4763</hrNo>
+				
+					<hrNo>4853</hrNo>
+				
+					<hrNo>4656</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>29</id>
+			<jpName>からす</jpName>
+			<enName>Corvus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>4623</hrNo>
+				
+					<hrNo>4630</hrNo>
+				
+					<hrNo>4662</hrNo>
+				
+					<hrNo>4757</hrNo>
+				
+					<hrNo>4786</hrNo>
+				
+					<hrNo>4630</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>30</id>
+			<jpName>りょうけん</jpName>
+			<enName>Canes Venatici</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>4785</hrNo>
+				
+					<hrNo>4915</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>31</id>
+			<jpName>はくちょう</jpName>
+			<enName>Cygnus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7328</hrNo>
+				
+					<hrNo>7420</hrNo>
+				
+					<hrNo>7528</hrNo>
+				
+					<hrNo>7796</hrNo>
+				
+					<hrNo>7924</hrNo>
+				
+					<hrNo>7796</hrNo>
+				
+					<hrNo>7949</hrNo>
+				
+					<hrNo>8115</hrNo>
+				
+					<hrNo>7949</hrNo>
+				
+					<hrNo>7796</hrNo>
+				
+					<hrNo>7417</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>32</id>
+			<jpName>いるか</jpName>
+			<enName>Delphinus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7852</hrNo>
+				
+					<hrNo>7882</hrNo>
+				
+					<hrNo>7906</hrNo>
+				
+					<hrNo>7948</hrNo>
+				
+					<hrNo>7928</hrNo>
+				
+					<hrNo>7882</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>33</id>
+			<jpName>かじき</jpName>
+			<enName>Dorado</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1338</hrNo>
+				
+					<hrNo>1465</hrNo>
+				
+					<hrNo>1922</hrNo>
+				
+					<hrNo>2015</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>34</id>
+			<jpName>りゅう</jpName>
+			<enName>Draco</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>4434</hrNo>
+				
+					<hrNo>4787</hrNo>
+				
+					<hrNo>5291</hrNo>
+				
+					<hrNo>5744</hrNo>
+				
+					<hrNo>5986</hrNo>
+				
+					<hrNo>6132</hrNo>
+				
+					<hrNo>6396</hrNo>
+				
+					<hrNo>6920</hrNo>
+				
+					<hrNo>7582</hrNo>
+				
+					<hrNo>7310</hrNo>
+				
+					<hrNo>6688</hrNo>
+				
+					<hrNo>6554</hrNo>
+				
+					<hrNo>6536</hrNo>
+				
+					<hrNo>6705</hrNo>
+				
+					<hrNo>6688</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>35</id>
+			<jpName>こうま</jpName>
+			<enName>Equuleus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>8097</hrNo>
+				
+					<hrNo>8131</hrNo>
+				
+					<hrNo>8123</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>36</id>
+			<jpName>エリダヌス</jpName>
+			<enName>Eridanus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>472</hrNo>
+				
+					<hrNo>566</hrNo>
+				
+					<hrNo>721</hrNo>
+				
+					<hrNo>794</hrNo>
+				
+					<hrNo>897</hrNo>
+				
+					<hrNo>1347</hrNo>
+				
+					<hrNo>1393</hrNo>
+				
+					<hrNo>1464</hrNo>
+				
+					<hrNo>1453</hrNo>
+				
+					<hrNo>1240</hrNo>
+				
+					<hrNo>1213</hrNo>
+				
+					<hrNo>1173</hrNo>
+				
+					<hrNo>1088</hrNo>
+				
+					<hrNo>1003</hrNo>
+				
+					<hrNo>919</hrNo>
+				
+					<hrNo>818</hrNo>
+				
+					<hrNo>874</hrNo>
+				
+					<hrNo>1084</hrNo>
+				
+					<hrNo>1136</hrNo>
+				
+					<hrNo>1162</hrNo>
+				
+					<hrNo>1231</hrNo>
+				
+					<hrNo>1298</hrNo>
+				
+					<hrNo>1463</hrNo>
+				
+					<hrNo>1520</hrNo>
+				
+					<hrNo>1666</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>37</id>
+			<jpName>ろ</jpName>
+			<enName>Fornax</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>612</hrNo>
+				
+					<hrNo>841</hrNo>
+				
+					<hrNo>963</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>38</id>
+			<jpName>ふたご</jpName>
+			<enName>Gemini</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>2134</hrNo>
+				
+					<hrNo>2216</hrNo>
+				
+					<hrNo>2286</hrNo>
+				
+					<hrNo>2473</hrNo>
+				
+					<hrNo>2697</hrNo>
+				
+					<hrNo>2540</hrNo>
+				
+					<hrNo>2697</hrNo>
+				
+					<hrNo>2891</hrNo>
+				
+					<hrNo>2990</hrNo>
+				
+					<hrNo>2777</hrNo>
+				
+					<hrNo>2763</hrNo>
+				
+					<hrNo>2777</hrNo>
+				
+					<hrNo>2650</hrNo>
+				
+					<hrNo>2421</hrNo>
+				
+					<hrNo>2484</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>39</id>
+			<jpName>つる</jpName>
+			<enName>Grus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>8353</hrNo>
+				
+					<hrNo>8411</hrNo>
+				
+					<hrNo>8486</hrNo>
+				
+					<hrNo>8556</hrNo>
+				
+					<hrNo>8636</hrNo>
+				
+					<hrNo>8425</hrNo>
+				
+					<hrNo>8636</hrNo>
+				
+					<hrNo>8675</hrNo>
+				
+					<hrNo>8747</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>40</id>
+			<jpName>ヘルクレス</jpName>
+			<enName>Hercules</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>6779</hrNo>
+				
+					<hrNo>6703</hrNo>
+				
+					<hrNo>6623</hrNo>
+				
+					<hrNo>6526</hrNo>
+				
+					<hrNo>6410</hrNo>
+				
+					<hrNo>6406</hrNo>
+				
+					<hrNo>6148</hrNo>
+				
+					<hrNo>6095</hrNo>
+				
+					<hrNo>6117</hrNo>
+				
+					<hrNo>6159</hrNo>
+				
+					<hrNo>6117</hrNo>
+				
+					<hrNo>6095</hrNo>
+				
+					<hrNo>6148</hrNo>
+				
+					<hrNo>6212</hrNo>
+				
+					<hrNo>6220</hrNo>
+				
+					<hrNo>6168</hrNo>
+				
+					<hrNo>6092</hrNo>
+				
+					<hrNo>6023</hrNo>
+				
+					<hrNo>5914</hrNo>
+				
+					<hrNo>6023</hrNo>
+				
+					<hrNo>6092</hrNo>
+				
+					<hrNo>6168</hrNo>
+				
+					<hrNo>6220</hrNo>
+				
+					<hrNo>6418</hrNo>
+				
+					<hrNo>6324</hrNo>
+				
+					<hrNo>6410</hrNo>
+				
+					<hrNo>6324</hrNo>
+				
+					<hrNo>6418</hrNo>
+				
+					<hrNo>6484</hrNo>
+				
+					<hrNo>6695</hrNo>
+				
+					<hrNo>6588</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>41</id>
+			<jpName>とけい</jpName>
+			<enName>Horologium</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>778</hrNo>
+				
+					<hrNo>934</hrNo>
+				
+					<hrNo>909</hrNo>
+				
+					<hrNo>934</hrNo>
+				
+					<hrNo>1326</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>42</id>
+			<jpName>うみへび</jpName>
+			<enName>Hydra</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3547</hrNo>
+				
+					<hrNo>3482</hrNo>
+				
+					<hrNo>3410</hrNo>
+				
+					<hrNo>3418</hrNo>
+				
+					<hrNo>3454</hrNo>
+				
+					<hrNo>3547</hrNo>
+				
+					<hrNo>3665</hrNo>
+				
+					<hrNo>3845</hrNo>
+				
+					<hrNo>3748</hrNo>
+				
+					<hrNo>3903</hrNo>
+				
+					<hrNo>3970</hrNo>
+				
+					<hrNo>3994</hrNo>
+				
+					<hrNo>4094</hrNo>
+				
+					<hrNo>4232</hrNo>
+				
+					<hrNo>4450</hrNo>
+				
+					<hrNo>4552</hrNo>
+				
+					<hrNo>5020</hrNo>
+				
+					<hrNo>5287</hrNo>
+				
+					<hrNo>5526</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>43</id>
+			<jpName>みずへび</jpName>
+			<enName>Hydrus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1208</hrNo>
+				
+					<hrNo>98</hrNo>
+				
+					<hrNo>591</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>44</id>
+			<jpName>インディアン</jpName>
+			<enName>Indus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7869</hrNo>
+				
+					<hrNo>7920</hrNo>
+				
+					<hrNo>7986</hrNo>
+				
+					<hrNo>8368</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>45</id>
+			<jpName>とかげ</jpName>
+			<enName>Lacerta</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>8498</hrNo>
+				
+					<hrNo>8579</hrNo>
+				
+					<hrNo>8632</hrNo>
+				
+					<hrNo>8523</hrNo>
+				
+					<hrNo>8572</hrNo>
+				
+					<hrNo>8541</hrNo>
+				
+					<hrNo>8585</hrNo>
+				
+					<hrNo>8538</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>46</id>
+			<jpName>しし</jpName>
+			<enName>Leo</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3773</hrNo>
+				
+					<hrNo>3873</hrNo>
+				
+					<hrNo>3905</hrNo>
+				
+					<hrNo>4031</hrNo>
+				
+					<hrNo>4057</hrNo>
+				
+					<hrNo>3975</hrNo>
+				
+					<hrNo>4357</hrNo>
+				
+					<hrNo>4534</hrNo>
+				
+					<hrNo>4359</hrNo>
+				
+					<hrNo>4399</hrNo>
+				
+					<hrNo>4386</hrNo>
+				
+					<hrNo>4399</hrNo>
+				
+					<hrNo>4359</hrNo>
+				
+					<hrNo>3982</hrNo>
+				
+					<hrNo>3975</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>47</id>
+			<jpName>うさぎ</jpName>
+			<enName>Lepus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1705</hrNo>
+				
+					<hrNo>1702</hrNo>
+				
+					<hrNo>1756</hrNo>
+				
+					<hrNo>1702</hrNo>
+				
+					<hrNo>1865</hrNo>
+				
+					<hrNo>1829</hrNo>
+				
+					<hrNo>1654</hrNo>
+				
+					<hrNo>1829</hrNo>
+				
+					<hrNo>1865</hrNo>
+				
+					<hrNo>2035</hrNo>
+				
+					<hrNo>1983</hrNo>
+				
+					<hrNo>2035</hrNo>
+				
+					<hrNo>1998</hrNo>
+				
+					<hrNo>1865</hrNo>
+				
+					<hrNo>1998</hrNo>
+				
+					<hrNo>2085</hrNo>
+				
+					<hrNo>2155</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>48</id>
+			<jpName>てんびん</jpName>
+			<enName>Libra</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5603</hrNo>
+				
+					<hrNo>5531</hrNo>
+				
+					<hrNo>5685</hrNo>
+				
+					<hrNo>5787</hrNo>
+				
+					<hrNo>5603</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>49</id>
+			<jpName>こじし</jpName>
+			<enName>Leo Minor</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3974</hrNo>
+				
+					<hrNo>4100</hrNo>
+				
+					<hrNo>4247</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>50</id>
+			<jpName>おおかみ</jpName>
+			<enName>Lupus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5649</hrNo>
+				
+					<hrNo>5683</hrNo>
+				
+					<hrNo>5708</hrNo>
+				
+					<hrNo>5776</hrNo>
+				
+					<hrNo>5948</hrNo>
+				
+					<hrNo>5883</hrNo>
+				
+					<hrNo>5948</hrNo>
+				
+					<hrNo>5776</hrNo>
+				
+					<hrNo>5695</hrNo>
+				
+					<hrNo>5571</hrNo>
+				
+					<hrNo>5469</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>51</id>
+			<jpName>やまねこ</jpName>
+			<enName>Lynx</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>2238</hrNo>
+				
+					<hrNo>2560</hrNo>
+				
+					<hrNo>2818</hrNo>
+				
+					<hrNo>3275</hrNo>
+				
+					<hrNo>3690</hrNo>
+				
+					<hrNo>3705</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>52</id>
+			<jpName>こと</jpName>
+			<enName>Lyra</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7051</hrNo>
+				
+					<hrNo>7001</hrNo>
+				
+					<hrNo>7056</hrNo>
+				
+					<hrNo>7106</hrNo>
+				
+					<hrNo>7178</hrNo>
+				
+					<hrNo>7139</hrNo>
+				
+					<hrNo>7056</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>53</id>
+			<jpName>テーブルさん</jpName>
+			<enName>Mensa</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1677</hrNo>
+				
+					<hrNo>2261</hrNo>
+				
+					<hrNo>2689</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>54</id>
+			<jpName>けんびきょう</jpName>
+			<enName>Microscopium</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7965</hrNo>
+				
+					<hrNo>8039</hrNo>
+				
+					<hrNo>8048</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>55</id>
+			<jpName>いっかくじゅう</jpName>
+			<enName>Monoceros</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3188</hrNo>
+				
+					<hrNo>2714</hrNo>
+				
+					<hrNo>2506</hrNo>
+				
+					<hrNo>2298</hrNo>
+				
+					<hrNo>2385</hrNo>
+				
+					<hrNo>2298</hrNo>
+				
+					<hrNo>2356</hrNo>
+				
+					<hrNo>2298</hrNo>
+				
+					<hrNo>2227</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>56</id>
+			<jpName>はえ</jpName>
+			<enName>Musca</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>4520</hrNo>
+				
+					<hrNo>4671</hrNo>
+				
+					<hrNo>4798</hrNo>
+				
+					<hrNo>4844</hrNo>
+				
+					<hrNo>4923</hrNo>
+				
+					<hrNo>4773</hrNo>
+				
+					<hrNo>4798</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>57</id>
+			<jpName>じょうぎ</jpName>
+			<enName>Norma</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5980</hrNo>
+				
+					<hrNo>5962</hrNo>
+				
+					<hrNo>6072</hrNo>
+				
+					<hrNo>6115</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>58</id>
+			<jpName>はちぶんぎ</jpName>
+			<enName>Octans</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5339</hrNo>
+				
+					<hrNo>8630</hrNo>
+				
+					<hrNo>8254</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>59</id>
+			<jpName>へびつかい</jpName>
+			<enName>Ophiuchus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>6104</hrNo>
+				
+					<hrNo>6112</hrNo>
+				
+					<hrNo>6147</hrNo>
+				
+					<hrNo>6075</hrNo>
+				
+					<hrNo>6056</hrNo>
+				
+					<hrNo>6075</hrNo>
+				
+					<hrNo>6149</hrNo>
+				
+					<hrNo>6299</hrNo>
+				
+					<hrNo>6556</hrNo>
+				
+					<hrNo>6603</hrNo>
+				
+					<hrNo>6629</hrNo>
+				
+					<hrNo>6698</hrNo>
+				
+					<hrNo>6378</hrNo>
+				
+					<hrNo>6453</hrNo>
+				
+					<hrNo>6492</hrNo>
+				
+					<hrNo>6453</hrNo>
+				
+					<hrNo>6378</hrNo>
+				
+					<hrNo>6147</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>60</id>
+			<jpName>オリオン</jpName>
+			<enName>Orion</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1601</hrNo>
+				
+					<hrNo>1567</hrNo>
+				
+					<hrNo>1552</hrNo>
+				
+					<hrNo>1543</hrNo>
+				
+					<hrNo>1544</hrNo>
+				
+					<hrNo>1570</hrNo>
+				
+					<hrNo>1580</hrNo>
+				
+					<hrNo>1638</hrNo>
+				
+					<hrNo>1790</hrNo>
+				
+					<hrNo>1852</hrNo>
+				
+					<hrNo>1788</hrNo>
+				
+					<hrNo>1713</hrNo>
+				
+					<hrNo>2004</hrNo>
+				
+					<hrNo>1948</hrNo>
+				
+					<hrNo>2061</hrNo>
+				
+					<hrNo>1879</hrNo>
+				
+					<hrNo>1790</hrNo>
+				
+					<hrNo>1879</hrNo>
+				
+					<hrNo>2061</hrNo>
+				
+					<hrNo>2124</hrNo>
+				
+					<hrNo>2199</hrNo>
+				
+					<hrNo>2159</hrNo>
+				
+					<hrNo>2135</hrNo>
+				
+					<hrNo>2047</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>61</id>
+			<jpName>くじゃく</jpName>
+			<enName>Pavo</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7790</hrNo>
+				
+					<hrNo>8181</hrNo>
+				
+					<hrNo>7913</hrNo>
+				
+					<hrNo>7665</hrNo>
+				
+					<hrNo>7074</hrNo>
+				
+					<hrNo>6582</hrNo>
+				
+					<hrNo>6982</hrNo>
+				
+					<hrNo>7590</hrNo>
+				
+					<hrNo>8181</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>62</id>
+			<jpName>ペガスス</jpName>
+			<enName>Pegasus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>8308</hrNo>
+				
+					<hrNo>8450</hrNo>
+				
+					<hrNo>8634</hrNo>
+				
+					<hrNo>8781</hrNo>
+				
+					<hrNo>39</hrNo>
+				
+					<hrNo>15</hrNo>
+				
+					<hrNo>8775</hrNo>
+				
+					<hrNo>8650</hrNo>
+				
+					<hrNo>8454</hrNo>
+				
+					<hrNo>8650</hrNo>
+				
+					<hrNo>8775</hrNo>
+				
+					<hrNo>8781</hrNo>
+				
+					<hrNo>8775</hrNo>
+				
+					<hrNo>8684</hrNo>
+				
+					<hrNo>8667</hrNo>
+				
+					<hrNo>8430</hrNo>
+				
+					<hrNo>8315</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>63</id>
+			<jpName>ペルセウス</jpName>
+			<enName>Perseus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1261</hrNo>
+				
+					<hrNo>1303</hrNo>
+				
+					<hrNo>1273</hrNo>
+				
+					<hrNo>1122</hrNo>
+				
+					<hrNo>1017</hrNo>
+				
+					<hrNo>915</hrNo>
+				
+					<hrNo>834</hrNo>
+				
+					<hrNo>496</hrNo>
+				
+					<hrNo>834</hrNo>
+				
+					<hrNo>915</hrNo>
+				
+					<hrNo>854</hrNo>
+				
+					<hrNo>799</hrNo>
+				
+					<hrNo>936</hrNo>
+				
+					<hrNo>921</hrNo>
+				
+					<hrNo>936</hrNo>
+				
+					<hrNo>799</hrNo>
+				
+					<hrNo>941</hrNo>
+				
+					<hrNo>1220</hrNo>
+				
+					<hrNo>1228</hrNo>
+				
+					<hrNo>1203</hrNo>
+				
+					<hrNo>1131</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>64</id>
+			<jpName>ほうおう</jpName>
+			<enName>Phoenix</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>25</hrNo>
+				
+					<hrNo>99</hrNo>
+				
+					<hrNo>322</hrNo>
+				
+					<hrNo>429</hrNo>
+				
+					<hrNo>440</hrNo>
+				
+					<hrNo>322</hrNo>
+				
+					<hrNo>338</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>65</id>
+			<jpName>がか</jpName>
+			<enName>Pictor</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>2042</hrNo>
+				
+					<hrNo>2550</hrNo>
+				
+					<hrNo>2020</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>66</id>
+			<jpName>みなみのうお</jpName>
+			<enName>Piscis Austrinus</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>8431</hrNo>
+				
+					<hrNo>8576</hrNo>
+				
+					<hrNo>8695</hrNo>
+				
+					<hrNo>8720</hrNo>
+				
+					<hrNo>8728</hrNo>
+				
+					<hrNo>8628</hrNo>
+				
+					<hrNo>8326</hrNo>
+				
+					<hrNo>8305</hrNo>
+				
+					<hrNo>8431</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>67</id>
+			<jpName>うお</jpName>
+			<enName>Pisces</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>352</hrNo>
+				
+					<hrNo>383</hrNo>
+				
+					<hrNo>360</hrNo>
+				
+					<hrNo>437</hrNo>
+				
+					<hrNo>510</hrNo>
+				
+					<hrNo>596</hrNo>
+				
+					<hrNo>489</hrNo>
+				
+					<hrNo>294</hrNo>
+				
+					<hrNo>224</hrNo>
+				
+					<hrNo>9072</hrNo>
+				
+					<hrNo>8984</hrNo>
+				
+					<hrNo>8911</hrNo>
+				
+					<hrNo>8852</hrNo>
+				
+					<hrNo>8916</hrNo>
+				
+					<hrNo>8969</hrNo>
+				
+					<hrNo>9072</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>68</id>
+			<jpName>とも</jpName>
+			<enName>Puppis</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>2451</hrNo>
+				
+					<hrNo>2773</hrNo>
+				
+					<hrNo>3045</hrNo>
+				
+					<hrNo>3185</hrNo>
+				
+					<hrNo>3165</hrNo>
+				
+					<hrNo>2773</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>69</id>
+			<jpName>らしんばん</jpName>
+			<enName>Pyxis</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3438</hrNo>
+				
+					<hrNo>3468</hrNo>
+				
+					<hrNo>3518</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>70</id>
+			<jpName>レチクル</jpName>
+			<enName>Reticulum</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1175</hrNo>
+				
+					<hrNo>1336</hrNo>
+				
+					<hrNo>1355</hrNo>
+				
+					<hrNo>1247</hrNo>
+				
+					<hrNo>1175</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>71</id>
+			<jpName>ちょうこくしつ</jpName>
+			<enName>Sculptor</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>280</hrNo>
+				
+					<hrNo>9016</hrNo>
+				
+					<hrNo>8863</hrNo>
+				
+					<hrNo>8937</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>72</id>
+			<jpName>さそり</jpName>
+			<enName>Scorpius</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5928</hrNo>
+				
+					<hrNo>5944</hrNo>
+				
+					<hrNo>5953</hrNo>
+				
+					<hrNo>5984</hrNo>
+				
+					<hrNo>6027</hrNo>
+				
+					<hrNo>5984</hrNo>
+				
+					<hrNo>5953</hrNo>
+				
+					<hrNo>6084</hrNo>
+				
+					<hrNo>6134</hrNo>
+				
+					<hrNo>6165</hrNo>
+				
+					<hrNo>6241</hrNo>
+				
+					<hrNo>6247</hrNo>
+				
+					<hrNo>6271</hrNo>
+				
+					<hrNo>6380</hrNo>
+				
+					<hrNo>6553</hrNo>
+				
+					<hrNo>6615</hrNo>
+				
+					<hrNo>6580</hrNo>
+				
+					<hrNo>6508</hrNo>
+				
+					<hrNo>6527</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>73</id>
+			<jpName>たて</jpName>
+			<enName>Scutum</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>6930</hrNo>
+				
+					<hrNo>6973</hrNo>
+				
+					<hrNo>7063</hrNo>
+				
+					<hrNo>7020</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>74</id>
+			<jpName>へび</jpName>
+			<enName>Serpens</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5867</hrNo>
+				
+					<hrNo>5842</hrNo>
+				
+					<hrNo>5879</hrNo>
+				
+					<hrNo>5933</hrNo>
+				
+					<hrNo>5867</hrNo>
+				
+					<hrNo>5788</hrNo>
+				
+					<hrNo>5854</hrNo>
+				
+					<hrNo>5892</hrNo>
+				
+					<hrNo>5881</hrNo>
+				
+					<hrNo>6561</hrNo>
+				
+					<hrNo>6869</hrNo>
+				
+					<hrNo>7141</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>75</id>
+			<jpName>ろくぶんぎ</jpName>
+			<enName>Sextans</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3909</hrNo>
+				
+					<hrNo>3981</hrNo>
+				
+					<hrNo>4119</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>76</id>
+			<jpName>や</jpName>
+			<enName>Sagitta</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7479</hrNo>
+				
+					<hrNo>7536</hrNo>
+				
+					<hrNo>7488</hrNo>
+				
+					<hrNo>7536</hrNo>
+				
+					<hrNo>7635</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>77</id>
+			<jpName>いて</jpName>
+			<enName>Sagittarius</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>6746</hrNo>
+				
+					<hrNo>6859</hrNo>
+				
+					<hrNo>6879</hrNo>
+				
+					<hrNo>6832</hrNo>
+				
+					<hrNo>6879</hrNo>
+				
+					<hrNo>6859</hrNo>
+				
+					<hrNo>7039</hrNo>
+				
+					<hrNo>6913</hrNo>
+				
+					<hrNo>6812</hrNo>
+				
+					<hrNo>6913</hrNo>
+				
+					<hrNo>7039</hrNo>
+				
+					<hrNo>7121</hrNo>
+				
+					<hrNo>7234</hrNo>
+				
+					<hrNo>7194</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>78</id>
+			<jpName>おうし</jpName>
+			<enName>Taurus</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>1910</hrNo>
+				
+					<hrNo>1457</hrNo>
+				
+					<hrNo>1412</hrNo>
+				
+					<hrNo>1346</hrNo>
+				
+					<hrNo>1239</hrNo>
+				
+					<hrNo>1030</hrNo>
+				
+					<hrNo>1251</hrNo>
+				
+					<hrNo>1101</hrNo>
+				
+					<hrNo>1251</hrNo>
+				
+					<hrNo>1030</hrNo>
+				
+					<hrNo>1038</hrNo>
+				
+					<hrNo>1373</hrNo>
+				
+					<hrNo>1346</hrNo>
+				
+					<hrNo>1373</hrNo>
+				
+					<hrNo>1409</hrNo>
+				
+					<hrNo>1791</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>79</id>
+			<jpName>ぼうえんきょう</jpName>
+			<enName>Telescopium</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>6783</hrNo>
+				
+					<hrNo>6897</hrNo>
+				
+					<hrNo>6905</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>80</id>
+			<jpName>みなみのさんかく</jpName>
+			<enName>Triangulum Australe</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>5671</hrNo>
+				
+					<hrNo>5897</hrNo>
+				
+					<hrNo>6217</hrNo>
+				
+					<hrNo>5671</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>81</id>
+			<jpName>さんかく</jpName>
+			<enName>Triangulum</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>544</hrNo>
+				
+					<hrNo>622</hrNo>
+				
+					<hrNo>664</hrNo>
+				
+					<hrNo>544</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>82</id>
+			<jpName>きょしちょう</jpName>
+			<enName>Tucana</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>8540</hrNo>
+				
+					<hrNo>8502</hrNo>
+				
+					<hrNo>8848</hrNo>
+				
+					<hrNo>126</hrNo>
+				
+					<hrNo>77</hrNo>
+				
+					<hrNo>9076</hrNo>
+				
+					<hrNo>8848</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>83</id>
+			<jpName>おおぐま</jpName>
+			<enName>Ursa Major</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3569</hrNo>
+				
+					<hrNo>3594</hrNo>
+				
+					<hrNo>3775</hrNo>
+				
+					<hrNo>3888</hrNo>
+				
+					<hrNo>3757</hrNo>
+				
+					<hrNo>3323</hrNo>
+				
+					<hrNo>3888</hrNo>
+				
+					<hrNo>3775</hrNo>
+				
+					<hrNo>4518</hrNo>
+				
+					<hrNo>4335</hrNo>
+				
+					<hrNo>4069</hrNo>
+				
+					<hrNo>4033</hrNo>
+				
+					<hrNo>4069</hrNo>
+				
+					<hrNo>4335</hrNo>
+				
+					<hrNo>4518</hrNo>
+				
+					<hrNo>4377</hrNo>
+				
+					<hrNo>4375</hrNo>
+				
+					<hrNo>4377</hrNo>
+				
+					<hrNo>4518</hrNo>
+				
+					<hrNo>4554</hrNo>
+				
+					<hrNo>4660</hrNo>
+				
+					<hrNo>4554</hrNo>
+				
+					<hrNo>4295</hrNo>
+				
+					<hrNo>4301</hrNo>
+				
+					<hrNo>3888</hrNo>
+				
+					<hrNo>4301</hrNo>
+				
+					<hrNo>4660</hrNo>
+				
+					<hrNo>4905</hrNo>
+				
+					<hrNo>5054</hrNo>
+				
+					<hrNo>5191</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>84</id>
+			<jpName>こぐま</jpName>
+			<enName>Ursa Minor</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>424</hrNo>
+				
+					<hrNo>6789</hrNo>
+				
+					<hrNo>6322</hrNo>
+				
+					<hrNo>5903</hrNo>
+				
+					<hrNo>6116</hrNo>
+				
+					<hrNo>5735</hrNo>
+				
+					<hrNo>5563</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>85</id>
+			<jpName>ほ</jpName>
+			<enName>Vela</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>3207</hrNo>
+				
+					<hrNo>3485</hrNo>
+				
+					<hrNo>3734</hrNo>
+				
+					<hrNo>3940</hrNo>
+				
+					<hrNo>4216</hrNo>
+				
+					<hrNo>3786</hrNo>
+				
+					<hrNo>3634</hrNo>
+				
+					<hrNo>3207</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>86</id>
+			<jpName>おとめ</jpName>
+			<enName>Virgo</enName>
+			<eclipticalFlag>1</eclipticalFlag>
+			<ptolemyFlag>1</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>4517</hrNo>
+				
+					<hrNo>4608</hrNo>
+				
+					<hrNo>4932</hrNo>
+				
+					<hrNo>4910</hrNo>
+				
+					<hrNo>5264</hrNo>
+				
+					<hrNo>5511</hrNo>
+				
+					<hrNo>5264</hrNo>
+				
+					<hrNo>4910</hrNo>
+				
+					<hrNo>5107</hrNo>
+				
+					<hrNo>4910</hrNo>
+				
+					<hrNo>4825</hrNo>
+				
+					<hrNo>4963</hrNo>
+				
+					<hrNo>5338</hrNo>
+				
+					<hrNo>5487</hrNo>
+				
+					<hrNo>5338</hrNo>
+				
+					<hrNo>4963</hrNo>
+				
+					<hrNo>5056</hrNo>
+				
+					<hrNo>4963</hrNo>
+				
+					<hrNo>4825</hrNo>
+				
+					<hrNo>4689</hrNo>
+				
+					<hrNo>4540</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>87</id>
+			<jpName>とびうお</jpName>
+			<enName>Volans</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>2736</hrNo>
+				
+					<hrNo>3223</hrNo>
+				
+					<hrNo>2803</hrNo>
+				
+					<hrNo>3223</hrNo>
+				
+					<hrNo>3347</hrNo>
+				
+					<hrNo>3615</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+		<consetellation>
+			<id>88</id>
+			<jpName>こぎつね</jpName>
+			<enName>Vulpecula</enName>
+			<eclipticalFlag>0</eclipticalFlag>
+			<ptolemyFlag>0</ptolemyFlag>
+			<drowing>
+				
+					<hrNo>7405</hrNo>
+				
+					<hrNo>7592</hrNo>
+				
+			</drowing>
+		</consetellation>
+	
+</starrysky>
+

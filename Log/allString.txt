@@ -1,0 +1,21639 @@
+
+start read xml!!
+
+starrysky
+
+星座の数 : 88番目
+
+星座ID : 1
+
+星座の和名 : アンドロメダ
+
+星座の英名 : Andromeda
+
+星座の構成星のhID
+
+星座の構成星の数 : 17
+
+8961
+
+8976
+
+8965
+
+8762
+
+8965
+
+154
+
+15
+
+165
+
+215
+
+165
+
+337
+
+603
+
+337
+
+269
+
+226
+
+335
+
+464
+
+星座ID : 2
+
+星座の和名 : ポンプ
+
+星座の英名 : Antlia
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+3765
+
+4104
+
+4273
+
+星座ID : 3
+
+星座の和名 : ふうちょう
+
+星座の英名 : Apus
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+5470
+
+6102
+
+6163
+
+5470
+
+星座ID : 4
+
+星座の和名 : わし
+
+星座の英名 : Aquila
+
+星座の構成星のhID
+
+星座の構成星の数 : 11
+
+7710
+
+7602
+
+7557
+
+7525
+
+7235
+
+7176
+
+7235
+
+7525
+
+7377
+
+7236
+
+7193
+
+星座ID : 5
+
+星座の和名 : みずがめ
+
+星座の英名 : Aquarius
+
+星座の構成星のhID
+
+星座の構成星の数 : 20
+
+7950
+
+8232
+
+8414
+
+8518
+
+8499
+
+8418
+
+8499
+
+8518
+
+8558
+
+8539
+
+8558
+
+8597
+
+8698
+
+8679
+
+8709
+
+8812
+
+8892
+
+8858
+
+8834
+
+8597
+
+星座ID : 6
+
+星座の和名 : さいだん
+
+星座の英名 : Ara
+
+星座の構成星のhID
+
+星座の構成星の数 : 9
+
+6229
+
+6285
+
+6295
+
+6510
+
+6743
+
+6510
+
+6461
+
+6462
+
+6500
+
+星座ID : 7
+
+星座の和名 : おひつじ
+
+星座の英名 : Aries
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+838
+
+545
+
+553
+
+617
+
+星座ID : 8
+
+星座の和名 : ぎょしゃ
+
+星座の英名 : Auriga
+
+星座の構成星のhID
+
+星座の構成星の数 : 11
+
+1641
+
+1605
+
+1708
+
+2088
+
+2077
+
+2088
+
+2095
+
+1791
+
+1577
+
+1641
+
+1708
+
+星座ID : 9
+
+星座の和名 : うしかい
+
+星座の英名 : Bootes
+
+星座の構成星のhID
+
+星座の構成星の数 : 15
+
+5185
+
+5235
+
+5340
+
+5478
+
+5340
+
+5506
+
+5681
+
+5602
+
+5435
+
+5351
+
+5404
+
+5351
+
+5435
+
+5429
+
+5340
+
+星座ID : 10
+
+星座の和名 : ちょうこくぐ
+
+星座の英名 : Caelum
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+1502
+
+1503
+
+1652
+
+星座ID : 11
+
+星座の和名 : きりん
+
+星座の英名 : Camelopardalis
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+1148
+
+1542
+
+1603
+
+1568
+
+星座ID : 12
+
+星座の和名 : やぎ
+
+星座の英名 : Capricornus
+
+星座の構成星のhID
+
+星座の構成星の数 : 11
+
+7747
+
+7776
+
+7936
+
+7980
+
+8204
+
+8260
+
+8278
+
+8322
+
+8278
+
+8075
+
+7776
+
+星座ID : 13
+
+星座の和名 : りゅうこつ
+
+星座の英名 : Carina
+
+星座の構成星のhID
+
+星座の構成星の数 : 8
+
+2326
+
+3117
+
+3307
+
+3699
+
+4199
+
+3699
+
+3685
+
+4037
+
+星座ID : 14
+
+星座の和名 : カシオペヤ
+
+星座の英名 : Cassiopeia
+
+星座の構成星のhID
+
+星座の構成星の数 : 5
+
+21
+
+168
+
+264
+
+403
+
+542
+
+星座ID : 15
+
+星座の和名 : ケンタウルス
+
+星座の英名 : Centaurus
+
+星座の構成星のhID
+
+星座の構成星の数 : 17
+
+5459
+
+5267
+
+5132
+
+5231
+
+5249
+
+5193
+
+5190
+
+5028
+
+5288
+
+5440
+
+5576
+
+5440
+
+5288
+
+5028
+
+4819
+
+4743
+
+4621
+
+星座ID : 16
+
+星座の和名 : ケフェウス
+
+星座の英名 : Cepheus
+
+星座の構成星のhID
+
+星座の構成星の数 : 11
+
+8571
+
+8494
+
+8465
+
+8694
+
+8974
+
+8238
+
+8162
+
+8465
+
+8162
+
+7957
+
+7850
+
+星座ID : 17
+
+星座の和名 : くじら
+
+星座の英名 : Cetus
+
+星座の構成星のhID
+
+星座の構成星の数 : 17
+
+74
+
+188
+
+334
+
+402
+
+539
+
+509
+
+539
+
+681
+
+811
+
+681
+
+779
+
+718
+
+813
+
+896
+
+911
+
+804
+
+718
+
+星座ID : 18
+
+星座の和名 : カメレオン
+
+星座の英名 : Chamaeleon
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+3318
+
+4174
+
+4674
+
+星座ID : 19
+
+星座の和名 : コンパス
+
+星座の英名 : Circinus
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+5670
+
+5463
+
+5704
+
+星座ID : 20
+
+星座の和名 : おおいぬ
+
+星座の英名 : Canis Major
+
+星座の構成星のhID
+
+星座の構成星の数 : 12
+
+2294
+
+2429
+
+2491
+
+2574
+
+2657
+
+2491
+
+2693
+
+2580
+
+2693
+
+2618
+
+2693
+
+2827
+
+星座ID : 21
+
+星座の和名 : こいぬ
+
+星座の英名 : Canis Minor
+
+星座の構成星のhID
+
+星座の構成星の数 : 2
+
+2845
+
+2943
+
+星座ID : 22
+
+星座の和名 : かに
+
+星座の英名 : Cancer
+
+星座の構成星のhID
+
+星座の構成星の数 : 6
+
+3249
+
+3461
+
+3572
+
+3461
+
+3449
+
+3475
+
+星座ID : 23
+
+星座の和名 : はと
+
+星座の英名 : Columba
+
+星座の構成星のhID
+
+星座の構成星の数 : 7
+
+1862
+
+1956
+
+2040
+
+2120
+
+2040
+
+2106
+
+2296
+
+星座ID : 24
+
+星座の和名 : かみのけ
+
+星座の英名 : Coma Berenices
+
+星座の構成星のhID
+
+星座の構成星の数 : 1
+
+4983
+
+星座ID : 25
+
+星座の和名 : みなみのかんむり
+
+星座の英名 : Corona Australis
+
+星座の構成星のhID
+
+星座の構成星の数 : 5
+
+6951
+
+7226
+
+7254
+
+7259
+
+7242
+
+星座ID : 26
+
+星座の和名 : かんむり
+
+星座の英名 : Corona Borealis
+
+星座の構成星のhID
+
+星座の構成星の数 : 7
+
+5778
+
+5747
+
+5793
+
+5849
+
+5889
+
+5947
+
+5971
+
+星座ID : 27
+
+星座の和名 : コップ
+
+星座の英名 : Crater
+
+星座の構成星のhID
+
+星座の構成星の数 : 9
+
+4287
+
+4343
+
+4405
+
+4514
+
+4567
+
+4468
+
+4402
+
+4382
+
+4287
+
+星座ID : 28
+
+星座の和名 : みなみじゅうじ
+
+星座の英名 : Crux
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+4730
+
+4763
+
+4853
+
+4656
+
+星座ID : 29
+
+星座の和名 : からす
+
+星座の英名 : Corvus
+
+星座の構成星のhID
+
+星座の構成星の数 : 6
+
+4623
+
+4630
+
+4662
+
+4757
+
+4786
+
+4630
+
+星座ID : 30
+
+星座の和名 : りょうけん
+
+星座の英名 : Canes Venatici
+
+星座の構成星のhID
+
+星座の構成星の数 : 2
+
+4785
+
+4915
+
+星座ID : 31
+
+星座の和名 : はくちょう
+
+星座の英名 : Cygnus
+
+星座の構成星のhID
+
+星座の構成星の数 : 11
+
+7328
+
+7420
+
+7528
+
+7796
+
+7924
+
+7796
+
+7949
+
+8115
+
+7949
+
+7796
+
+7417
+
+星座ID : 32
+
+星座の和名 : いるか
+
+星座の英名 : Delphinus
+
+星座の構成星のhID
+
+星座の構成星の数 : 6
+
+7852
+
+7882
+
+7906
+
+7948
+
+7928
+
+7882
+
+星座ID : 33
+
+星座の和名 : かじき
+
+星座の英名 : Dorado
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+1338
+
+1465
+
+1922
+
+2015
+
+星座ID : 34
+
+星座の和名 : りゅう
+
+星座の英名 : Draco
+
+星座の構成星のhID
+
+星座の構成星の数 : 15
+
+4434
+
+4787
+
+5291
+
+5744
+
+5986
+
+6132
+
+6396
+
+6920
+
+7582
+
+7310
+
+6688
+
+6554
+
+6536
+
+6705
+
+6688
+
+星座ID : 35
+
+星座の和名 : こうま
+
+星座の英名 : Equuleus
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+8097
+
+8131
+
+8123
+
+星座ID : 36
+
+星座の和名 : エリダヌス
+
+星座の英名 : Eridanus
+
+星座の構成星のhID
+
+星座の構成星の数 : 25
+
+472
+
+566
+
+721
+
+794
+
+897
+
+1347
+
+1393
+
+1464
+
+1453
+
+1240
+
+1213
+
+1173
+
+1088
+
+1003
+
+919
+
+818
+
+874
+
+1084
+
+1136
+
+1162
+
+1231
+
+1298
+
+1463
+
+1520
+
+1666
+
+星座ID : 37
+
+星座の和名 : ろ
+
+星座の英名 : Fornax
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+612
+
+841
+
+963
+
+星座ID : 38
+
+星座の和名 : ふたご
+
+星座の英名 : Gemini
+
+星座の構成星のhID
+
+星座の構成星の数 : 15
+
+2134
+
+2216
+
+2286
+
+2473
+
+2697
+
+2540
+
+2697
+
+2891
+
+2990
+
+2777
+
+2763
+
+2777
+
+2650
+
+2421
+
+2484
+
+星座ID : 39
+
+星座の和名 : つる
+
+星座の英名 : Grus
+
+星座の構成星のhID
+
+星座の構成星の数 : 9
+
+8353
+
+8411
+
+8486
+
+8556
+
+8636
+
+8425
+
+8636
+
+8675
+
+8747
+
+星座ID : 40
+
+星座の和名 : ヘルクレス
+
+星座の英名 : Hercules
+
+星座の構成星のhID
+
+星座の構成星の数 : 31
+
+6779
+
+6703
+
+6623
+
+6526
+
+6410
+
+6406
+
+6148
+
+6095
+
+6117
+
+6159
+
+6117
+
+6095
+
+6148
+
+6212
+
+6220
+
+6168
+
+6092
+
+6023
+
+5914
+
+6023
+
+6092
+
+6168
+
+6220
+
+6418
+
+6324
+
+6410
+
+6324
+
+6418
+
+6484
+
+6695
+
+6588
+
+星座ID : 41
+
+星座の和名 : とけい
+
+星座の英名 : Horologium
+
+星座の構成星のhID
+
+星座の構成星の数 : 5
+
+778
+
+934
+
+909
+
+934
+
+1326
+
+星座ID : 42
+
+星座の和名 : うみへび
+
+星座の英名 : Hydra
+
+星座の構成星のhID
+
+星座の構成星の数 : 19
+
+3547
+
+3482
+
+3410
+
+3418
+
+3454
+
+3547
+
+3665
+
+3845
+
+3748
+
+3903
+
+3970
+
+3994
+
+4094
+
+4232
+
+4450
+
+4552
+
+5020
+
+5287
+
+5526
+
+星座ID : 43
+
+星座の和名 : みずへび
+
+星座の英名 : Hydrus
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+1208
+
+98
+
+591
+
+星座ID : 44
+
+星座の和名 : インディアン
+
+星座の英名 : Indus
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+7869
+
+7920
+
+7986
+
+8368
+
+星座ID : 45
+
+星座の和名 : とかげ
+
+星座の英名 : Lacerta
+
+星座の構成星のhID
+
+星座の構成星の数 : 8
+
+8498
+
+8579
+
+8632
+
+8523
+
+8572
+
+8541
+
+8585
+
+8538
+
+星座ID : 46
+
+星座の和名 : しし
+
+星座の英名 : Leo
+
+星座の構成星のhID
+
+星座の構成星の数 : 15
+
+3773
+
+3873
+
+3905
+
+4031
+
+4057
+
+3975
+
+4357
+
+4534
+
+4359
+
+4399
+
+4386
+
+4399
+
+4359
+
+3982
+
+3975
+
+星座ID : 47
+
+星座の和名 : うさぎ
+
+星座の英名 : Lepus
+
+星座の構成星のhID
+
+星座の構成星の数 : 17
+
+1705
+
+1702
+
+1756
+
+1702
+
+1865
+
+1829
+
+1654
+
+1829
+
+1865
+
+2035
+
+1983
+
+2035
+
+1998
+
+1865
+
+1998
+
+2085
+
+2155
+
+星座ID : 48
+
+星座の和名 : てんびん
+
+星座の英名 : Libra
+
+星座の構成星のhID
+
+星座の構成星の数 : 5
+
+5603
+
+5531
+
+5685
+
+5787
+
+5603
+
+星座ID : 49
+
+星座の和名 : こじし
+
+星座の英名 : Leo Minor
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+3974
+
+4100
+
+4247
+
+星座ID : 50
+
+星座の和名 : おおかみ
+
+星座の英名 : Lupus
+
+星座の構成星のhID
+
+星座の構成星の数 : 11
+
+5649
+
+5683
+
+5708
+
+5776
+
+5948
+
+5883
+
+5948
+
+5776
+
+5695
+
+5571
+
+5469
+
+星座ID : 51
+
+星座の和名 : やまねこ
+
+星座の英名 : Lynx
+
+星座の構成星のhID
+
+星座の構成星の数 : 6
+
+2238
+
+2560
+
+2818
+
+3275
+
+3690
+
+3705
+
+星座ID : 52
+
+星座の和名 : こと
+
+星座の英名 : Lyra
+
+星座の構成星のhID
+
+星座の構成星の数 : 7
+
+7051
+
+7001
+
+7056
+
+7106
+
+7178
+
+7139
+
+7056
+
+星座ID : 53
+
+星座の和名 : テーブルさん
+
+星座の英名 : Mensa
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+1677
+
+2261
+
+2689
+
+星座ID : 54
+
+星座の和名 : けんびきょう
+
+星座の英名 : Microscopium
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+7965
+
+8039
+
+8048
+
+星座ID : 55
+
+星座の和名 : いっかくじゅう
+
+星座の英名 : Monoceros
+
+星座の構成星のhID
+
+星座の構成星の数 : 9
+
+3188
+
+2714
+
+2506
+
+2298
+
+2385
+
+2298
+
+2356
+
+2298
+
+2227
+
+星座ID : 56
+
+星座の和名 : はえ
+
+星座の英名 : Musca
+
+星座の構成星のhID
+
+星座の構成星の数 : 7
+
+4520
+
+4671
+
+4798
+
+4844
+
+4923
+
+4773
+
+4798
+
+星座ID : 57
+
+星座の和名 : じょうぎ
+
+星座の英名 : Norma
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+5980
+
+5962
+
+6072
+
+6115
+
+星座ID : 58
+
+星座の和名 : はちぶんぎ
+
+星座の英名 : Octans
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+5339
+
+8630
+
+8254
+
+星座ID : 59
+
+星座の和名 : へびつかい
+
+星座の英名 : Ophiuchus
+
+星座の構成星のhID
+
+星座の構成星の数 : 18
+
+6104
+
+6112
+
+6147
+
+6075
+
+6056
+
+6075
+
+6149
+
+6299
+
+6556
+
+6603
+
+6629
+
+6698
+
+6378
+
+6453
+
+6492
+
+6453
+
+6378
+
+6147
+
+星座ID : 60
+
+星座の和名 : オリオン
+
+星座の英名 : Orion
+
+星座の構成星のhID
+
+星座の構成星の数 : 24
+
+1601
+
+1567
+
+1552
+
+1543
+
+1544
+
+1570
+
+1580
+
+1638
+
+1790
+
+1852
+
+1788
+
+1713
+
+2004
+
+1948
+
+2061
+
+1879
+
+1790
+
+1879
+
+2061
+
+2124
+
+2199
+
+2159
+
+2135
+
+2047
+
+星座ID : 61
+
+星座の和名 : くじゃく
+
+星座の英名 : Pavo
+
+星座の構成星のhID
+
+星座の構成星の数 : 9
+
+7790
+
+8181
+
+7913
+
+7665
+
+7074
+
+6582
+
+6982
+
+7590
+
+8181
+
+星座ID : 62
+
+星座の和名 : ペガスス
+
+星座の英名 : Pegasus
+
+星座の構成星のhID
+
+星座の構成星の数 : 17
+
+8308
+
+8450
+
+8634
+
+8781
+
+39
+
+15
+
+8775
+
+8650
+
+8454
+
+8650
+
+8775
+
+8781
+
+8775
+
+8684
+
+8667
+
+8430
+
+8315
+
+星座ID : 63
+
+星座の和名 : ペルセウス
+
+星座の英名 : Perseus
+
+星座の構成星のhID
+
+星座の構成星の数 : 21
+
+1261
+
+1303
+
+1273
+
+1122
+
+1017
+
+915
+
+834
+
+496
+
+834
+
+915
+
+854
+
+799
+
+936
+
+921
+
+936
+
+799
+
+941
+
+1220
+
+1228
+
+1203
+
+1131
+
+星座ID : 64
+
+星座の和名 : ほうおう
+
+星座の英名 : Phoenix
+
+星座の構成星のhID
+
+星座の構成星の数 : 7
+
+25
+
+99
+
+322
+
+429
+
+440
+
+322
+
+338
+
+星座ID : 65
+
+星座の和名 : がか
+
+星座の英名 : Pictor
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+2042
+
+2550
+
+2020
+
+星座ID : 66
+
+星座の和名 : みなみのうお
+
+星座の英名 : Piscis Austrinus
+
+星座の構成星のhID
+
+星座の構成星の数 : 9
+
+8431
+
+8576
+
+8695
+
+8720
+
+8728
+
+8628
+
+8326
+
+8305
+
+8431
+
+星座ID : 67
+
+星座の和名 : うお
+
+星座の英名 : Pisces
+
+星座の構成星のhID
+
+星座の構成星の数 : 16
+
+352
+
+383
+
+360
+
+437
+
+510
+
+596
+
+489
+
+294
+
+224
+
+9072
+
+8984
+
+8911
+
+8852
+
+8916
+
+8969
+
+9072
+
+星座ID : 68
+
+星座の和名 : とも
+
+星座の英名 : Puppis
+
+星座の構成星のhID
+
+星座の構成星の数 : 6
+
+2451
+
+2773
+
+3045
+
+3185
+
+3165
+
+2773
+
+星座ID : 69
+
+星座の和名 : らしんばん
+
+星座の英名 : Pyxis
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+3438
+
+3468
+
+3518
+
+星座ID : 70
+
+星座の和名 : レチクル
+
+星座の英名 : Reticulum
+
+星座の構成星のhID
+
+星座の構成星の数 : 5
+
+1175
+
+1336
+
+1355
+
+1247
+
+1175
+
+星座ID : 71
+
+星座の和名 : ちょうこくしつ
+
+星座の英名 : Sculptor
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+280
+
+9016
+
+8863
+
+8937
+
+星座ID : 72
+
+星座の和名 : さそり
+
+星座の英名 : Scorpius
+
+星座の構成星のhID
+
+星座の構成星の数 : 19
+
+5928
+
+5944
+
+5953
+
+5984
+
+6027
+
+5984
+
+5953
+
+6084
+
+6134
+
+6165
+
+6241
+
+6247
+
+6271
+
+6380
+
+6553
+
+6615
+
+6580
+
+6508
+
+6527
+
+星座ID : 73
+
+星座の和名 : たて
+
+星座の英名 : Scutum
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+6930
+
+6973
+
+7063
+
+7020
+
+星座ID : 74
+
+星座の和名 : へび
+
+星座の英名 : Serpens
+
+星座の構成星のhID
+
+星座の構成星の数 : 12
+
+5867
+
+5842
+
+5879
+
+5933
+
+5867
+
+5788
+
+5854
+
+5892
+
+5881
+
+6561
+
+6869
+
+7141
+
+星座ID : 75
+
+星座の和名 : ろくぶんぎ
+
+星座の英名 : Sextans
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+3909
+
+3981
+
+4119
+
+星座ID : 76
+
+星座の和名 : や
+
+星座の英名 : Sagitta
+
+星座の構成星のhID
+
+星座の構成星の数 : 5
+
+7479
+
+7536
+
+7488
+
+7536
+
+7635
+
+星座ID : 77
+
+星座の和名 : いて
+
+星座の英名 : Sagittarius
+
+星座の構成星のhID
+
+星座の構成星の数 : 14
+
+6746
+
+6859
+
+6879
+
+6832
+
+6879
+
+6859
+
+7039
+
+6913
+
+6812
+
+6913
+
+7039
+
+7121
+
+7234
+
+7194
+
+星座ID : 78
+
+星座の和名 : おうし
+
+星座の英名 : Taurus
+
+星座の構成星のhID
+
+星座の構成星の数 : 16
+
+1910
+
+1457
+
+1412
+
+1346
+
+1239
+
+1030
+
+1251
+
+1101
+
+1251
+
+1030
+
+1038
+
+1373
+
+1346
+
+1373
+
+1409
+
+1791
+
+星座ID : 79
+
+星座の和名 : ぼうえんきょう
+
+星座の英名 : Telescopium
+
+星座の構成星のhID
+
+星座の構成星の数 : 3
+
+6783
+
+6897
+
+6905
+
+星座ID : 80
+
+星座の和名 : みなみのさんかく
+
+星座の英名 : Triangulum Australe
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+5671
+
+5897
+
+6217
+
+5671
+
+星座ID : 81
+
+星座の和名 : さんかく
+
+星座の英名 : Triangulum
+
+星座の構成星のhID
+
+星座の構成星の数 : 4
+
+544
+
+622
+
+664
+
+544
+
+星座ID : 82
+
+星座の和名 : きょしちょう
+
+星座の英名 : Tucana
+
+星座の構成星のhID
+
+星座の構成星の数 : 7
+
+8540
+
+8502
+
+8848
+
+126
+
+77
+
+9076
+
+8848
+
+星座ID : 83
+
+星座の和名 : おおぐま
+
+星座の英名 : Ursa Major
+
+星座の構成星のhID
+
+星座の構成星の数 : 30
+
+3569
+
+3594
+
+3775
+
+3888
+
+3757
+
+3323
+
+3888
+
+3775
+
+4518
+
+4335
+
+4069
+
+4033
+
+4069
+
+4335
+
+4518
+
+4377
+
+4375
+
+4377
+
+4518
+
+4554
+
+4660
+
+4554
+
+4295
+
+4301
+
+3888
+
+4301
+
+4660
+
+4905
+
+5054
+
+5191
+
+星座ID : 84
+
+星座の和名 : こぐま
+
+星座の英名 : Ursa Minor
+
+星座の構成星のhID
+
+星座の構成星の数 : 7
+
+424
+
+6789
+
+6322
+
+5903
+
+6116
+
+5735
+
+5563
+
+星座ID : 85
+
+星座の和名 : ほ
+
+星座の英名 : Vela
+
+星座の構成星のhID
+
+星座の構成星の数 : 8
+
+3207
+
+3485
+
+3734
+
+3940
+
+4216
+
+3786
+
+3634
+
+3207
+
+星座ID : 86
+
+星座の和名 : おとめ
+
+星座の英名 : Virgo
+
+星座の構成星のhID
+
+星座の構成星の数 : 21
+
+4517
+
+4608
+
+4932
+
+4910
+
+5264
+
+5511
+
+5264
+
+4910
+
+5107
+
+4910
+
+4825
+
+4963
+
+5338
+
+5487
+
+5338
+
+4963
+
+5056
+
+4963
+
+4825
+
+4689
+
+4540
+
+星座ID : 87
+
+星座の和名 : とびうお
+
+星座の英名 : Volans
+
+星座の構成星のhID
+
+星座の構成星の数 : 6
+
+2736
+
+3223
+
+2803
+
+3223
+
+3347
+
+3615
+
+星座ID : 88
+
+星座の和名 : こぎつね
+
+星座の英名 : Vulpecula
+
+星座の構成星のhID
+
+星座の構成星の数 : 2
+
+7405
+
+7592
+
+complete read xml!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 8961
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 37 : 34
+
+赤緯 : 46 : 27 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 8976
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 40 : 25
+
+赤緯 : 44 : 20 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 8965
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 38 : 8
+
+赤緯 : 43 : 16 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 8762
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 1 : 55
+
+赤緯 : 42 : 19 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 8965
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 38 : 8
+
+赤緯 : 43 : 16 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 154
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 36 : 53
+
+赤緯 : 33 : 43 : 10
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 15
+
+星の和名 : アルフェラッツ
+
+星の英名 : Alpheratz
+
+星の実視等級 : -0.3
+
+赤経 : 0 : 8 : 23
+
+赤緯 : 29 : 5 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 165
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 39 : 20
+
+赤緯 : 30 : 51 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 215
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 47 : 20
+
+赤緯 : 24 : 16 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 165
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 39 : 20
+
+赤緯 : 30 : 51 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 337
+
+星の和名 : ミラク
+
+星の英名 : Mirach
+
+星の実視等級 : null
+
+赤経 : 1 : 9 : 44
+
+赤緯 : 35 : 37 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 603
+
+星の和名 : アルマク
+
+星の英名 : Almach
+
+星の実視等級 : -3.1
+
+赤経 : 2 : 3 : 54
+
+赤緯 : 42 : 19 : 47
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 337
+
+星の和名 : ミラク
+
+星の英名 : Mirach
+
+星の実視等級 : null
+
+赤経 : 1 : 9 : 44
+
+赤緯 : 35 : 37 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 269
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 56 : 45
+
+赤緯 : 38 : 29 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 226
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 49 : 49
+
+赤緯 : 41 : 4 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 335
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 9 : 30
+
+赤緯 : 47 : 14 : 31
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 1
+
+星のHID : 464
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 38 : 0
+
+赤緯 : 48 : 37 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 2
+
+星のHID : 3765
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 29 : 15
+
+赤緯 : -35 : 57 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 2
+
+星のHID : 4104
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 27 : 9
+
+赤緯 : -31 : 4 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 2
+
+星のHID : 4273
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 56 : 43
+
+赤緯 : -37 : 8 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 3
+
+星のHID : 5470
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 47 : 52
+
+赤緯 : -79 : 2 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 3
+
+星のHID : 6102
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 33 : 27
+
+赤緯 : -78 : 53 : 50
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 3
+
+星のHID : 6163
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 43 : 5
+
+赤緯 : -77 : 31 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 3
+
+星のHID : 5470
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 47 : 52
+
+赤緯 : -79 : 2 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7710
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 11 : 18
+
+赤緯 : 0 : 49 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7602
+
+星の和名 : アルシャイン
+
+星の英名 : Alshain
+
+星の実視等級 : null
+
+赤経 : 19 : 55 : 19
+
+赤緯 : 6 : 24 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7557
+
+星の和名 : アルタイル
+
+星の英名 : Altair
+
+星の実視等級 : 2.21
+
+赤経 : 19 : 50 : 47
+
+赤緯 : 8 : 52 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7525
+
+星の和名 : タラゼド
+
+星の英名 : Tarazed
+
+星の実視等級 : null
+
+赤経 : 19 : 46 : 16
+
+赤緯 : 10 : 36 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7235
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 5 : 25
+
+赤緯 : 13 : 51 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7176
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 59 : 37
+
+赤緯 : 15 : 4 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7235
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 5 : 25
+
+赤緯 : 13 : 51 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7525
+
+星の和名 : タラゼド
+
+星の英名 : Tarazed
+
+星の実視等級 : null
+
+赤経 : 19 : 46 : 16
+
+赤緯 : 10 : 36 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7377
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 25 : 30
+
+赤緯 : 3 : 6 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7236
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 6 : 15
+
+赤緯 : -4 : 52 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 4
+
+星のHID : 7193
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 1 : 41
+
+赤緯 : -5 : 44 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 7950
+
+星の和名 : アルバリ
+
+星の英名 : Albali
+
+星の実視等級 : null
+
+赤経 : 20 : 47 : 41
+
+赤緯 : -9 : 29 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8232
+
+星の和名 : サダルスウド
+
+星の英名 : Sadalsuud
+
+星の実視等級 : null
+
+赤経 : 21 : 31 : 34
+
+赤緯 : -5 : 34 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8414
+
+星の和名 : サダルメリク
+
+星の英名 : Sadalmelik
+
+星の実視等級 : null
+
+赤経 : 22 : 5 : 47
+
+赤緯 : 0 : 19 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8518
+
+星の和名 : サダクビア
+
+星の英名 : Sadachbia
+
+星の実視等級 : null
+
+赤経 : 22 : 21 : 39
+
+赤緯 : -1 : 23 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8499
+
+星の和名 : アンカ
+
+星の英名 : Ancha
+
+星の実視等級 : null
+
+赤経 : 22 : 16 : 50
+
+赤緯 : -7 : 47 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8418
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 6 : 26
+
+赤緯 : -13 : 52 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8499
+
+星の和名 : アンカ
+
+星の英名 : Ancha
+
+星の実視等級 : null
+
+赤経 : 22 : 16 : 50
+
+赤緯 : -7 : 47 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8518
+
+星の和名 : サダクビア
+
+星の英名 : Sadachbia
+
+星の実視等級 : null
+
+赤経 : 22 : 21 : 39
+
+赤緯 : -1 : 23 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8558
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 28 : 50
+
+赤緯 : 0 : 1 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8539
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 25 : 17
+
+赤緯 : 1 : 22 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8558
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 28 : 50
+
+赤緯 : 0 : 1 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8597
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 35 : 21
+
+赤緯 : 0 : 7 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8698
+
+星の和名 : 
+
+星の英名 : Situla
+
+星の実視等級 : null
+
+赤経 : 22 : 52 : 37
+
+赤緯 : -7 : 34 : 47
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8679
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 49 : 36
+
+赤緯 : -13 : 35 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8709
+
+星の和名 : スカト
+
+星の英名 : Skat
+
+星の実視等級 : null
+
+赤経 : 22 : 54 : 39
+
+赤緯 : -15 : 49 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8812
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 9 : 27
+
+赤緯 : -21 : 10 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8892
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 22 : 58
+
+赤緯 : -20 : 6 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8858
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 17 : 54
+
+赤緯 : -9 : 10 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8834
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 14 : 19
+
+赤緯 : -6 : 2 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 5
+
+星のHID : 8597
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 35 : 21
+
+赤緯 : 0 : 7 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 6
+
+星のHID : 6229
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 49 : 47
+
+赤緯 : -59 : 2 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 6
+
+星のHID : 6285
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 58 : 37
+
+赤緯 : -55 : 59 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 6
+
+星のHID : 6295
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 59 : 35
+
+赤緯 : -53 : 9 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 6
+
+星のHID : 6510
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 31 : 51
+
+赤緯 : -49 : 52 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 6
+
+星のHID : 6743
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 6 : 38
+
+赤緯 : -50 : 5 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 6
+
+星のHID : 6510
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 31 : 51
+
+赤緯 : -49 : 52 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 6
+
+星のHID : 6461
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 25 : 18
+
+赤緯 : -55 : 31 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 6
+
+星のHID : 6462
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 25 : 24
+
+赤緯 : -56 : 22 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 6
+
+星のHID : 6500
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 31 : 6
+
+赤緯 : -60 : 41 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 7
+
+星のHID : 838
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 49 : 59
+
+赤緯 : 27 : 15 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 7
+
+星のHID : 545
+
+星の和名 : メサルチム
+
+星の英名 : Mesarthim
+
+星の実視等級 : null
+
+赤経 : 1 : 53 : 32
+
+赤緯 : 19 : 17 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 7
+
+星のHID : 553
+
+星の和名 : シェラタン
+
+星の英名 : Sheratan
+
+星の実視等級 : null
+
+赤経 : 1 : 54 : 38
+
+赤緯 : 20 : 48 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 7
+
+星のHID : 617
+
+星の和名 : ハマル
+
+星の英名 : Hamal
+
+星の実視等級 : null
+
+赤経 : 2 : 7 : 10
+
+赤緯 : 23 : 27 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 1641
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 6 : 31
+
+赤緯 : 41 : 14 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 1605
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 1 : 58
+
+赤緯 : 43 : 49 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 1708
+
+星の和名 : カペラ
+
+星の英名 : Capella
+
+星の実視等級 : 0.5
+
+赤経 : 5 : 16 : 41
+
+赤緯 : 45 : 59 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 2088
+
+星の和名 : メンカリナン
+
+星の英名 : Menkalinan
+
+星の実視等級 : null
+
+赤経 : 5 : 59 : 32
+
+赤緯 : 44 : 56 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 2077
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 59 : 32
+
+赤緯 : 54 : 17 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 2088
+
+星の和名 : メンカリナン
+
+星の英名 : Menkalinan
+
+星の実視等級 : null
+
+赤経 : 5 : 59 : 32
+
+赤緯 : 44 : 56 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 2095
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 59 : 43
+
+赤緯 : 37 : 12 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 1791
+
+星の和名 : エルナト
+
+星の英名 : Elnath
+
+星の実視等級 : -1.37
+
+赤経 : 5 : 26 : 18
+
+赤緯 : 28 : 36 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 1577
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 57 : 0
+
+赤緯 : 33 : 9 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 1641
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 6 : 31
+
+赤緯 : 41 : 14 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 8
+
+星のHID : 1708
+
+星の和名 : カペラ
+
+星の英名 : Capella
+
+星の実視等級 : 0.5
+
+赤経 : 5 : 16 : 41
+
+赤緯 : 45 : 59 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5185
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 47 : 16
+
+赤緯 : 17 : 27 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5235
+
+星の和名 : ムフリッド
+
+星の英名 : Muphrid
+
+星の実視等級 : null
+
+赤経 : 13 : 54 : 41
+
+赤緯 : 18 : 23 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5340
+
+星の和名 : アルクトゥルス
+
+星の英名 : Arcturus
+
+星の実視等級 : -0.38
+
+赤経 : 14 : 15 : 40
+
+赤緯 : 19 : 10 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5478
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 41 : 9
+
+赤緯 : 13 : 43 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5340
+
+星の和名 : アルクトゥルス
+
+星の英名 : Arcturus
+
+星の実視等級 : -0.38
+
+赤経 : 14 : 15 : 40
+
+赤緯 : 19 : 10 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5506
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 44 : 59
+
+赤緯 : 27 : 4 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5681
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 15 : 30
+
+赤緯 : 33 : 18 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5602
+
+星の和名 : ネッカル
+
+星の英名 : Nekkar
+
+星の実視等級 : null
+
+赤経 : 15 : 1 : 57
+
+赤緯 : 40 : 23 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5435
+
+星の和名 : セギヌス
+
+星の英名 : Seginus
+
+星の実視等級 : null
+
+赤経 : 14 : 32 : 5
+
+赤緯 : 38 : 18 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5351
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 16 : 23
+
+赤緯 : 46 : 5 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5404
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 25 : 12
+
+赤緯 : 51 : 51 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5351
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 16 : 23
+
+赤緯 : 46 : 5 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5435
+
+星の和名 : セギヌス
+
+星の英名 : Seginus
+
+星の実視等級 : null
+
+赤経 : 14 : 32 : 5
+
+赤緯 : 38 : 18 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5429
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 31 : 50
+
+赤緯 : 30 : 22 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 9
+
+星のHID : 5340
+
+星の和名 : アルクトゥルス
+
+星の英名 : Arcturus
+
+星の実視等級 : -0.38
+
+赤経 : 14 : 15 : 40
+
+赤緯 : 19 : 10 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 10
+
+星のHID : 1502
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 40 : 34
+
+赤緯 : -41 : 51 : 50
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 10
+
+星のHID : 1503
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 42 : 4
+
+赤緯 : -37 : 8 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 10
+
+星のHID : 1652
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 4 : 24
+
+赤緯 : -35 : 29 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 11
+
+星のHID : 1148
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 50 : 22
+
+赤緯 : 71 : 19 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 11
+
+星のHID : 1542
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 54 : 3
+
+赤緯 : 66 : 20 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 11
+
+星のHID : 1603
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 3 : 25
+
+赤緯 : 60 : 26 : 32
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 11
+
+星のHID : 1568
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 57 : 17
+
+赤緯 : 53 : 45 : 8
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 7747
+
+星の和名 : アルゲディ
+
+星の英名 : Algedi
+
+星の実視等級 : null
+
+赤経 : 20 : 17 : 39
+
+赤緯 : -12 : 30 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 7776
+
+星の和名 : ダビー
+
+星の英名 : Dabih
+
+星の実視等級 : null
+
+赤経 : 20 : 21 : 1
+
+赤緯 : -14 : 46 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 7936
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 46 : 6
+
+赤緯 : -25 : 16 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 7980
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 51 : 49
+
+赤緯 : -26 : 55 : 9
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 8204
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 26 : 40
+
+赤緯 : -22 : 24 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 8260
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 37 : 5
+
+赤緯 : -19 : 27 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 8278
+
+星の和名 : ナシラ
+
+星の英名 : Nashira
+
+星の実視等級 : null
+
+赤経 : 21 : 40 : 6
+
+赤緯 : -16 : 39 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 8322
+
+星の和名 : デネブ・アルゲティ
+
+星の英名 : Deneb Algedi
+
+星の実視等級 : null
+
+赤経 : 21 : 47 : 2
+
+赤緯 : -16 : 7 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 8278
+
+星の和名 : ナシラ
+
+星の英名 : Nashira
+
+星の実視等級 : null
+
+赤経 : 21 : 40 : 6
+
+赤緯 : -16 : 39 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 8075
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 5 : 57
+
+赤緯 : -17 : 13 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 12
+
+星のHID : 7776
+
+星の和名 : ダビー
+
+星の英名 : Dabih
+
+星の実視等級 : null
+
+赤経 : 20 : 21 : 1
+
+赤緯 : -14 : 46 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 13
+
+星のHID : 2326
+
+星の和名 : カノープス
+
+星の英名 : Canopus
+
+星の実視等級 : -5.48
+
+赤経 : 6 : 23 : 57
+
+赤緯 : -52 : 41 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 13
+
+星のHID : 3117
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 56 : 47
+
+赤緯 : -52 : 58 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 13
+
+星のHID : 3307
+
+星の和名 : アビオル
+
+星の英名 : Avior
+
+星の実視等級 : null
+
+赤経 : 8 : 22 : 31
+
+赤緯 : -59 : 30 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 13
+
+星のHID : 3699
+
+星の和名 : アスピディスケ
+
+星の英名 : Aspidiske
+
+星の実視等級 : null
+
+赤経 : 9 : 17 : 5
+
+赤緯 : -59 : 16 : 31
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 13
+
+星のHID : 4199
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 42 : 57
+
+赤緯 : -64 : 23 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 13
+
+星のHID : 3699
+
+星の和名 : アスピディスケ
+
+星の英名 : Aspidiske
+
+星の実視等級 : null
+
+赤経 : 9 : 17 : 5
+
+赤緯 : -59 : 16 : 31
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 13
+
+星のHID : 3685
+
+星の和名 : ミアプラキドゥス
+
+星の英名 : Miaplacidus
+
+星の実視等級 : null
+
+赤経 : 9 : 13 : 12
+
+赤緯 : -69 : 43 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 13
+
+星のHID : 4037
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 13 : 44
+
+赤緯 : -70 : 2 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 14
+
+星のHID : 21
+
+星の和名 : カーフ
+
+星の英名 : Caph
+
+星の実視等級 : 1.16
+
+赤経 : 0 : 9 : 11
+
+赤緯 : 59 : 8 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 14
+
+星のHID : 168
+
+星の和名 : シェダル
+
+星の英名 : Shedar
+
+星の実視等級 : null
+
+赤経 : 0 : 40 : 31
+
+赤緯 : 56 : 32 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 14
+
+星のHID : 264
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 56 : 43
+
+赤緯 : 60 : 43 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 14
+
+星のHID : 403
+
+星の和名 : ルクバー
+
+星の英名 : Ruchbah
+
+星の実視等級 : null
+
+赤経 : 1 : 25 : 49
+
+赤緯 : 60 : 14 : 7
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 14
+
+星のHID : 542
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 54 : 24
+
+赤緯 : 63 : 40 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5459
+
+星の和名 : リギル・ケンタウルス
+
+星の英名 : Rigil Kentaurus
+
+星の実視等級 : 4.38
+
+赤経 : 14 : 39 : 36
+
+赤緯 : -60 : 50 : 7
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5267
+
+星の和名 : ハダル
+
+星の英名 : Hadar
+
+星の実視等級 : -5.42
+
+赤経 : 14 : 3 : 49
+
+赤緯 : -60 : 22 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5132
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 39 : 53
+
+赤緯 : -53 : 27 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5231
+
+星の和名 : アルナイル
+
+星の英名 : Alnair
+
+星の実視等級 : -0.74
+
+赤経 : 13 : 55 : 32
+
+赤緯 : -47 : 17 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5249
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 58 : 41
+
+赤緯 : -44 : 48 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5193
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 49 : 37
+
+赤緯 : -42 : 28 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5190
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 49 : 30
+
+赤緯 : -41 : 41 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5028
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 20 : 36
+
+赤緯 : -36 : 42 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5288
+
+星の和名 : 
+
+星の英名 : Menkent
+
+星の実視等級 : null
+
+赤経 : 14 : 6 : 41
+
+赤緯 : -36 : 22 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5440
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 35 : 30
+
+赤緯 : -42 : 9 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5576
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 59 : 10
+
+赤緯 : -42 : 6 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5440
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 35 : 30
+
+赤緯 : -42 : 9 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5288
+
+星の和名 : 
+
+星の英名 : Menkent
+
+星の実視等級 : null
+
+赤経 : 14 : 6 : 41
+
+赤緯 : -36 : 22 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 5028
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 20 : 36
+
+赤緯 : -36 : 42 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 4819
+
+星の和名 : 
+
+星の英名 : Muhlifain
+
+星の実視等級 : null
+
+赤経 : 12 : 41 : 31
+
+赤緯 : -48 : 57 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 4743
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 28 : 2
+
+赤緯 : -50 : 13 : 50
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 15
+
+星のHID : 4621
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 8 : 22
+
+赤緯 : -50 : 43 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 8571
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 29 : 10
+
+赤緯 : 58 : 24 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 8494
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 15 : 2
+
+赤緯 : 57 : 2 : 37
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 8465
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 10 : 51
+
+赤緯 : 58 : 12 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 8694
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 49 : 41
+
+赤緯 : 66 : 12 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 8974
+
+星の和名 : エル・ライ
+
+星の英名 : Errai
+
+星の実視等級 : null
+
+赤経 : 23 : 39 : 21
+
+赤緯 : 77 : 37 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 8238
+
+星の和名 : アルフィルク
+
+星の英名 : Alfirk
+
+星の実視等級 : null
+
+赤経 : 21 : 28 : 40
+
+赤緯 : 70 : 33 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 8162
+
+星の和名 : アルデラミン
+
+星の英名 : Alderamin
+
+星の実視等級 : 1.57
+
+赤経 : 21 : 18 : 35
+
+赤緯 : 62 : 35 : 8
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 8465
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 10 : 51
+
+赤緯 : 58 : 12 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 8162
+
+星の和名 : アルデラミン
+
+星の英名 : Alderamin
+
+星の実視等級 : 1.57
+
+赤経 : 21 : 18 : 35
+
+赤緯 : 62 : 35 : 8
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 7957
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 45 : 17
+
+赤緯 : 61 : 50 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 16
+
+星のHID : 7850
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 29 : 35
+
+赤緯 : 62 : 59 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 74
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 19 : 26
+
+赤緯 : -8 : 49 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 188
+
+星の和名 : ディフダ
+
+星の英名 : Diphda
+
+星の実視等級 : null
+
+赤経 : 0 : 43 : 35
+
+赤緯 : -17 : 59 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 334
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 8 : 35
+
+赤緯 : -10 : 10 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 402
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 24 : 1
+
+赤緯 : -8 : 11 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 539
+
+星の和名 : バテン・カイトス
+
+星の英名 : Baten Kaitos
+
+星の実視等級 : null
+
+赤経 : 1 : 51 : 28
+
+赤緯 : -10 : 20 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 509
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 44 : 4
+
+赤緯 : -15 : 56 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 539
+
+星の和名 : バテン・カイトス
+
+星の英名 : Baten Kaitos
+
+星の実視等級 : null
+
+赤経 : 1 : 51 : 28
+
+赤緯 : -10 : 20 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 681
+
+星の和名 : ミラ
+
+星の英名 : Mira
+
+星の実視等級 : null
+
+赤経 : 2 : 19 : 21
+
+赤緯 : -2 : 58 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 811
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 44 : 7
+
+赤緯 : -13 : 51 : 31
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 681
+
+星の和名 : ミラ
+
+星の英名 : Mira
+
+星の実視等級 : null
+
+赤経 : 2 : 19 : 21
+
+赤緯 : -2 : 58 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 779
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 39 : 29
+
+赤緯 : 0 : 19 : 43
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 718
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 28 : 10
+
+赤緯 : 8 : 27 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 813
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 44 : 57
+
+赤緯 : 10 : 6 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 896
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 59 : 43
+
+赤緯 : 8 : 54 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 911
+
+星の和名 : メンカル
+
+星の英名 : Menkar
+
+星の実視等級 : null
+
+赤経 : 3 : 2 : 17
+
+赤緯 : 4 : 5 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 804
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 43 : 18
+
+赤緯 : 3 : 14 : 9
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 17
+
+星のHID : 718
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 28 : 10
+
+赤緯 : 8 : 27 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 18
+
+星のHID : 3318
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 18 : 32
+
+赤緯 : -76 : 55 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 18
+
+星のHID : 4174
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 35 : 28
+
+赤緯 : -78 : 36 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 18
+
+星のHID : 4674
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 18 : 21
+
+赤緯 : -79 : 18 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 19
+
+星のHID : 5670
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 17 : 31
+
+赤緯 : -58 : 48 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 19
+
+星のHID : 5463
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 42 : 30
+
+赤緯 : -64 : 58 : 31
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 19
+
+星のHID : 5704
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 23 : 23
+
+赤緯 : -59 : 19 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2294
+
+星の和名 : ミルザム
+
+星の英名 : Mirzam
+
+星の実視等級 : null
+
+赤経 : 6 : 22 : 42
+
+赤緯 : -17 : 57 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2429
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 36 : 41
+
+赤緯 : -19 : 15 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2491
+
+星の和名 : シリウス
+
+星の英名 : Sirius
+
+星の実視等級 : 1.47
+
+赤経 : 6 : 45 : 9
+
+赤緯 : -16 : 42 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2574
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 54 : 11
+
+赤緯 : -12 : 2 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2657
+
+星の和名 : ムリフェイン
+
+星の英名 : Muliphein
+
+星の実視等級 : null
+
+赤経 : 7 : 3 : 46
+
+赤緯 : -15 : 38 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2491
+
+星の和名 : シリウス
+
+星の英名 : Sirius
+
+星の実視等級 : 1.47
+
+赤経 : 6 : 45 : 9
+
+赤緯 : -16 : 42 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2693
+
+星の和名 : ウェズン
+
+星の英名 : Wezen
+
+星の実視等級 : -6.86
+
+赤経 : 7 : 8 : 24
+
+赤緯 : -26 : 23 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2580
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 54 : 8
+
+赤緯 : -24 : 11 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2693
+
+星の和名 : ウェズン
+
+星の英名 : Wezen
+
+星の実視等級 : -6.86
+
+赤経 : 7 : 8 : 24
+
+赤緯 : -26 : 23 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2618
+
+星の和名 : アダーラ
+
+星の英名 : Adhara
+
+星の実視等級 : null
+
+赤経 : 6 : 58 : 38
+
+赤緯 : -28 : 58 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2693
+
+星の和名 : ウェズン
+
+星の英名 : Wezen
+
+星の実視等級 : -6.86
+
+赤経 : 7 : 8 : 24
+
+赤緯 : -26 : 23 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 20
+
+星のHID : 2827
+
+星の和名 : アルドラ
+
+星の英名 : Aludra
+
+星の実視等級 : -7.51
+
+赤経 : 7 : 24 : 6
+
+赤緯 : -29 : 18 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 21
+
+星のHID : 2845
+
+星の和名 : ゴメイザ
+
+星の英名 : Gomeisa
+
+星の実視等級 : null
+
+赤経 : 7 : 27 : 9
+
+赤緯 : 8 : 17 : 22
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 21
+
+星のHID : 2943
+
+星の和名 : プロキオン
+
+星の英名 : Procyon
+
+星の実視等級 : 2.65
+
+赤経 : 7 : 39 : 18
+
+赤緯 : 5 : 13 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 22
+
+星のHID : 3249
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 16 : 31
+
+赤緯 : 9 : 11 : 8
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 22
+
+星のHID : 3461
+
+星の和名 : アセレス・アウストラリス
+
+星の英名 : Asellus Australis
+
+星の実視等級 : null
+
+赤経 : 8 : 44 : 41
+
+赤緯 : 18 : 9 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 22
+
+星のHID : 3572
+
+星の和名 : アクベンス
+
+星の英名 : Acubens
+
+星の実視等級 : null
+
+赤経 : 8 : 58 : 29
+
+赤緯 : 11 : 51 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 22
+
+星のHID : 3461
+
+星の和名 : アセレス・アウストラリス
+
+星の英名 : Asellus Australis
+
+星の実視等級 : null
+
+赤経 : 8 : 44 : 41
+
+赤緯 : 18 : 9 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 22
+
+星のHID : 3449
+
+星の和名 : アセレス・ボレアリス
+
+星の英名 : Asellus Borealis
+
+星の実視等級 : null
+
+赤経 : 8 : 43 : 17
+
+赤緯 : 21 : 28 : 7
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 22
+
+星のHID : 3475
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 46 : 42
+
+赤緯 : 28 : 45 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 23
+
+星のHID : 1862
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 31 : 13
+
+赤緯 : -35 : 28 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 23
+
+星のHID : 1956
+
+星の和名 : ファクト
+
+星の英名 : Phact
+
+星の実視等級 : null
+
+赤経 : 5 : 39 : 39
+
+赤緯 : -34 : 4 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 23
+
+星のHID : 2040
+
+星の和名 : ワズン
+
+星の英名 : Wazn
+
+星の実視等級 : null
+
+赤経 : 5 : 50 : 58
+
+赤緯 : -35 : 46 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 23
+
+星のHID : 2120
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 59 : 9
+
+赤緯 : -42 : 48 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 23
+
+星のHID : 2040
+
+星の和名 : ワズン
+
+星の英名 : Wazn
+
+星の実視等級 : null
+
+赤経 : 5 : 50 : 58
+
+赤緯 : -35 : 46 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 23
+
+星のHID : 2106
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 57 : 32
+
+赤緯 : -35 : 17 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 23
+
+星のHID : 2296
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 22 : 7
+
+赤緯 : -33 : 26 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 24
+
+星のHID : 4983
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 11 : 52
+
+赤緯 : 27 : 52 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 25
+
+星のHID : 6951
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 33 : 30
+
+赤緯 : -42 : 18 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 25
+
+星のHID : 7226
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 6 : 25
+
+赤緯 : -37 : 3 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 25
+
+星のHID : 7254
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 9 : 28
+
+赤緯 : -37 : 54 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 25
+
+星のHID : 7259
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 10 : 2
+
+赤緯 : -39 : 20 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 25
+
+星のHID : 7242
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 8 : 21
+
+赤緯 : -40 : 29 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 26
+
+星のHID : 5778
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 32 : 56
+
+赤緯 : 31 : 21 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 26
+
+星のHID : 5747
+
+星の和名 : ヌサカン
+
+星の英名 : Nusakan
+
+星の実視等級 : null
+
+赤経 : 15 : 27 : 50
+
+赤緯 : 29 : 6 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 26
+
+星のHID : 5793
+
+星の和名 : アルフェッカ
+
+星の英名 : Alphecca
+
+星の実視等級 : null
+
+赤経 : 15 : 34 : 41
+
+赤緯 : 26 : 42 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 26
+
+星のHID : 5849
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 42 : 45
+
+赤緯 : 26 : 17 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 26
+
+星のHID : 5889
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 49 : 36
+
+赤緯 : 26 : 4 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 26
+
+星のHID : 5947
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 57 : 35
+
+赤緯 : 26 : 52 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 26
+
+星のHID : 5971
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 1 : 27
+
+赤緯 : 29 : 51 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 27
+
+星のHID : 4287
+
+星の和名 : アルケス
+
+星の英名 : Alkes
+
+星の実視等級 : null
+
+赤経 : 10 : 59 : 47
+
+赤緯 : -18 : 17 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 27
+
+星のHID : 4343
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 11 : 40
+
+赤緯 : -22 : 49 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 27
+
+星のHID : 4405
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 24 : 53
+
+赤緯 : -17 : 41 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 27
+
+星のHID : 4514
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 44 : 46
+
+赤緯 : -18 : 21 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 27
+
+星のHID : 4567
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 56 : 1
+
+赤緯 : -17 : 9 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 27
+
+星のHID : 4468
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 36 : 41
+
+赤緯 : -9 : 48 : 8
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 27
+
+星のHID : 4402
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 24 : 37
+
+赤緯 : -10 : 51 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 27
+
+星のHID : 4382
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 19 : 21
+
+赤緯 : -14 : 46 : 43
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 27
+
+星のHID : 4287
+
+星の和名 : アルケス
+
+星の英名 : Alkes
+
+星の実視等級 : null
+
+赤経 : 10 : 59 : 47
+
+赤緯 : -18 : 17 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 28
+
+星のHID : 4730
+
+星の和名 : アクルックス
+
+星の英名 : Acrux
+
+星の実視等級 : -4.19
+
+赤経 : 12 : 26 : 36
+
+赤緯 : -63 : 5 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 28
+
+星のHID : 4763
+
+星の和名 : ガクルックス
+
+星の英名 : Gacrux
+
+星の実視等級 : -0.56
+
+赤経 : 12 : 31 : 10
+
+赤緯 : -57 : 6 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 28
+
+星のHID : 4853
+
+星の和名 : ベクルックス
+
+星の英名 : Becrux
+
+星の実視等級 : -3.92
+
+赤経 : 12 : 47 : 43
+
+赤緯 : -59 : 41 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 28
+
+星のHID : 4656
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 15 : 9
+
+赤緯 : -58 : 44 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 29
+
+星のHID : 4623
+
+星の和名 : アルキバ
+
+星の英名 : Alchiba
+
+星の実視等級 : null
+
+赤経 : 12 : 8 : 25
+
+赤緯 : -24 : 43 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 29
+
+星のHID : 4630
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 10 : 8
+
+赤緯 : -22 : 37 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 29
+
+星のHID : 4662
+
+星の和名 : ギエナ
+
+星の英名 : Gienah
+
+星の実視等級 : 1.08
+
+赤経 : 12 : 15 : 48
+
+赤緯 : -17 : 32 : 31
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 29
+
+星のHID : 4757
+
+星の和名 : アルゴラブ
+
+星の英名 : Algorab
+
+星の実視等級 : null
+
+赤経 : 12 : 29 : 52
+
+赤緯 : -16 : 30 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 29
+
+星のHID : 4786
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 34 : 23
+
+赤緯 : -23 : 23 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 29
+
+星のHID : 4630
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 10 : 8
+
+赤緯 : -22 : 37 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 30
+
+星のHID : 4785
+
+星の和名 : カーラ
+
+星の英名 : Chara
+
+星の実視等級 : null
+
+赤経 : 12 : 33 : 45
+
+赤緯 : 41 : 21 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 30
+
+星のHID : 4915
+
+星の和名 : コル・カロリ
+
+星の英名 : Cor Caroli
+
+星の実視等級 : null
+
+赤経 : 12 : 56 : 2
+
+赤緯 : 38 : 19 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7328
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 17 : 6
+
+赤緯 : 53 : 22 : 7
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7420
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 29 : 42
+
+赤緯 : 51 : 43 : 47
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7528
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 44 : 59
+
+赤緯 : 45 : 7 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7796
+
+星の和名 : サドル
+
+星の英名 : Sadr
+
+星の実視等級 : null
+
+赤経 : 20 : 22 : 14
+
+赤緯 : 40 : 15 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7924
+
+星の和名 : デネブ
+
+星の英名 : Deneb
+
+星の実視等級 : -7.2
+
+赤経 : 20 : 41 : 26
+
+赤緯 : 45 : 16 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7796
+
+星の和名 : サドル
+
+星の英名 : Sadr
+
+星の実視等級 : null
+
+赤経 : 20 : 22 : 14
+
+赤緯 : 40 : 15 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7949
+
+星の和名 : ギェナー
+
+星の英名 : Gienah
+
+星の実視等級 : null
+
+赤経 : 20 : 46 : 13
+
+赤緯 : 33 : 58 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 8115
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 12 : 56
+
+赤緯 : 30 : 13 : 37
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7949
+
+星の和名 : ギェナー
+
+星の英名 : Gienah
+
+星の実視等級 : null
+
+赤経 : 20 : 46 : 13
+
+赤緯 : 33 : 58 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7796
+
+星の和名 : サドル
+
+星の英名 : Sadr
+
+星の実視等級 : null
+
+赤経 : 20 : 22 : 14
+
+赤緯 : 40 : 15 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 31
+
+星のHID : 7417
+
+星の和名 : アルビレオ
+
+星の英名 : Albireo
+
+星の実視等級 : null
+
+赤経 : 19 : 30 : 43
+
+赤緯 : 27 : 57 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 32
+
+星のHID : 7852
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 33 : 13
+
+赤緯 : 11 : 18 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 32
+
+星のHID : 7882
+
+星の和名 : ロタネブ
+
+星の英名 : Rotanev
+
+星の実視等級 : null
+
+赤経 : 20 : 37 : 33
+
+赤緯 : 14 : 35 : 43
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 32
+
+星のHID : 7906
+
+星の和名 : スワロキン
+
+星の英名 : Sualocin
+
+星の実視等級 : null
+
+赤経 : 20 : 39 : 38
+
+赤緯 : 15 : 54 : 43
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 32
+
+星のHID : 7948
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 46 : 40
+
+赤緯 : 16 : 7 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 32
+
+星のHID : 7928
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 43 : 28
+
+赤緯 : 15 : 4 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 32
+
+星のHID : 7882
+
+星の和名 : ロタネブ
+
+星の英名 : Rotanev
+
+星の実視等級 : null
+
+赤経 : 20 : 37 : 33
+
+赤緯 : 14 : 35 : 43
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 33
+
+星のHID : 1338
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 16 : 2
+
+赤緯 : -51 : 29 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 33
+
+星のHID : 1465
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 34 : 0
+
+赤緯 : -55 : 2 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 33
+
+星のHID : 1922
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 33 : 38
+
+赤緯 : -62 : 29 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 33
+
+星のHID : 2015
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 44 : 46
+
+赤緯 : -65 : 44 : 8
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 4434
+
+星の和名 : ギアンサル
+
+星の英名 : Giausar
+
+星の実視等級 : null
+
+赤経 : 11 : 31 : 24
+
+赤緯 : 69 : 19 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 4787
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 33 : 29
+
+赤緯 : 69 : 47 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 5291
+
+星の和名 : トゥバン
+
+星の英名 : Thuban
+
+星の実視等級 : null
+
+赤経 : 14 : 4 : 23
+
+赤緯 : 64 : 22 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 5744
+
+星の和名 : エダシク
+
+星の英名 : Edasich
+
+星の実視等級 : null
+
+赤経 : 15 : 24 : 56
+
+赤緯 : 58 : 57 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 5986
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 1 : 53
+
+赤緯 : 58 : 33 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 6132
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 24 : 0
+
+赤緯 : 61 : 30 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 6396
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 8 : 47
+
+赤緯 : 65 : 42 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 6920
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 20 : 46
+
+赤緯 : 71 : 20 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 7582
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 48 : 10
+
+赤緯 : 70 : 16 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 7310
+
+星の和名 : アルタイス
+
+星の英名 : Altais
+
+星の実視等級 : null
+
+赤経 : 19 : 12 : 33
+
+赤緯 : 67 : 39 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 6688
+
+星の和名 : グルミウム
+
+星の英名 : Grumium
+
+星の実視等級 : null
+
+赤経 : 17 : 53 : 32
+
+赤緯 : 56 : 52 : 22
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 6554
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 32 : 11
+
+赤緯 : 55 : 11 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 6536
+
+星の和名 : ラスタバン
+
+星の英名 : Rastaban
+
+星の実視等級 : null
+
+赤経 : 17 : 30 : 26
+
+赤緯 : 52 : 18 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 6705
+
+星の和名 : エルタニン
+
+星の英名 : Eltanin
+
+星の実視等級 : -1.04
+
+赤経 : 17 : 56 : 36
+
+赤緯 : 51 : 29 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 34
+
+星のHID : 6688
+
+星の和名 : グルミウム
+
+星の英名 : Grumium
+
+星の実視等級 : null
+
+赤経 : 17 : 53 : 32
+
+赤緯 : 56 : 52 : 22
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 35
+
+星のHID : 8097
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 10 : 21
+
+赤緯 : 10 : 7 : 54
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 35
+
+星のHID : 8131
+
+星の和名 : キタルファ
+
+星の英名 : Kitalpha
+
+星の実視等級 : null
+
+赤経 : 21 : 15 : 49
+
+赤緯 : 5 : 14 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 35
+
+星のHID : 8123
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 14 : 29
+
+赤緯 : 10 : 0 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 472
+
+星の和名 : アケルナル
+
+星の英名 : Achernar
+
+星の実視等級 : -2.77
+
+赤経 : 1 : 37 : 43
+
+赤緯 : -57 : 14 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 566
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 55 : 58
+
+赤緯 : -51 : 36 : 32
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 721
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 26 : 59
+
+赤緯 : -47 : 42 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 794
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 40 : 40
+
+赤緯 : -39 : 51 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 897
+
+星の和名 : アカマル
+
+星の英名 : Acamar
+
+星の実視等級 : null
+
+赤経 : 2 : 58 : 16
+
+赤緯 : -40 : 18 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1347
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 17 : 54
+
+赤緯 : -33 : 47 : 54
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1393
+
+星の和名 : テーミン
+
+星の英名 : Theemin
+
+星の実視等級 : null
+
+赤経 : 4 : 24 : 2
+
+赤緯 : -34 : 1 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1464
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 35 : 33
+
+赤緯 : -30 : 33 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1453
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 33 : 31
+
+赤緯 : -29 : 46 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1240
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 59 : 56
+
+赤緯 : -24 : 0 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1213
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 53 : 43
+
+赤緯 : -24 : 36 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1173
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 46 : 51
+
+赤緯 : -23 : 14 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1088
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 33 : 47
+
+赤緯 : -21 : 37 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1003
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 19 : 31
+
+赤緯 : -21 : 45 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 919
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 2 : 24
+
+赤緯 : -23 : 37 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 818
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 45 : 6
+
+赤緯 : -18 : 34 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 874
+
+星の和名 : アザー
+
+星の英名 : Azha
+
+星の実視等級 : null
+
+赤経 : 2 : 56 : 26
+
+赤緯 : -8 : 53 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1084
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 32 : 56
+
+赤緯 : -9 : 27 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1136
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 43 : 15
+
+赤緯 : -9 : 45 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1162
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 46 : 9
+
+赤緯 : -12 : 6 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1231
+
+星の和名 : ザウラク
+
+星の英名 : Zaurak
+
+星の実視等級 : null
+
+赤経 : 3 : 58 : 2
+
+赤緯 : -13 : 30 : 31
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1298
+
+星の和名 : ベイド
+
+星の英名 : Beid
+
+星の実視等級 : null
+
+赤経 : 4 : 11 : 52
+
+赤緯 : -6 : 50 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1463
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 36 : 19
+
+赤緯 : -3 : 21 : 9
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1520
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 45 : 30
+
+赤緯 : -3 : 15 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 36
+
+星のHID : 1666
+
+星の和名 : クルサ
+
+星の英名 : Cursa
+
+星の実視等級 : null
+
+赤経 : 5 : 7 : 51
+
+赤緯 : -5 : 5 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 37
+
+星のHID : 612
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 4 : 29
+
+赤緯 : -29 : 17 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 37
+
+星のHID : 841
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 49 : 5
+
+赤緯 : -32 : 24 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 37
+
+星のHID : 963
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 12 : 4
+
+赤緯 : -28 : 59 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2134
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 4 : 7
+
+赤緯 : 23 : 15 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2216
+
+星の和名 : プロプス
+
+星の英名 : Propus
+
+星の実視等級 : null
+
+赤経 : 6 : 14 : 53
+
+赤緯 : 22 : 30 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2286
+
+星の和名 : テジャト
+
+星の英名 : Tejat
+
+星の実視等級 : null
+
+赤経 : 6 : 22 : 58
+
+赤緯 : 22 : 30 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2473
+
+星の和名 : メブスタ
+
+星の英名 : Mebsuta
+
+星の実視等級 : null
+
+赤経 : 6 : 43 : 56
+
+赤緯 : 25 : 7 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2697
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 11 : 8
+
+赤緯 : 30 : 14 : 43
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2540
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 52 : 47
+
+赤緯 : 33 : 57 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2697
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 11 : 8
+
+赤緯 : 30 : 14 : 43
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2891
+
+星の和名 : カストル
+
+星の英名 : Castor
+
+星の実視等級 : 1.33
+
+赤経 : 7 : 34 : 36
+
+赤緯 : 31 : 53 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2990
+
+星の和名 : ポルックス
+
+星の英名 : Pollux
+
+星の実視等級 : 1.09
+
+赤経 : 7 : 45 : 19
+
+赤緯 : 28 : 1 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2777
+
+星の和名 : ワサト
+
+星の英名 : Wasat
+
+星の実視等級 : null
+
+赤経 : 7 : 20 : 7
+
+赤緯 : 21 : 58 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2763
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 18 : 6
+
+赤緯 : 16 : 32 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2777
+
+星の和名 : ワサト
+
+星の英名 : Wasat
+
+星の実視等級 : null
+
+赤経 : 7 : 20 : 7
+
+赤緯 : 21 : 58 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2650
+
+星の和名 : メクブダ
+
+星の英名 : Mekbuda
+
+星の実視等級 : null
+
+赤経 : 7 : 4 : 7
+
+赤緯 : 20 : 34 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2421
+
+星の和名 : アルヘナ
+
+星の英名 : Alhena
+
+星の実視等級 : -0.61
+
+赤経 : 6 : 37 : 43
+
+赤緯 : 16 : 23 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 38
+
+星のHID : 2484
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 45 : 17
+
+赤緯 : 12 : 53 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 39
+
+星のHID : 8353
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 53 : 56
+
+赤緯 : -37 : 21 : 54
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 39
+
+星のHID : 8411
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 6 : 7
+
+赤緯 : -39 : 32 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 39
+
+星のHID : 8486
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 15 : 37
+
+赤緯 : -41 : 20 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 39
+
+星のHID : 8556
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 29 : 16
+
+赤緯 : -43 : 29 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 39
+
+星のHID : 8636
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 42 : 40
+
+赤緯 : -46 : 53 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 39
+
+星のHID : 8425
+
+星の和名 : アルナイル
+
+星の英名 : Al Na'ir
+
+星の実視等級 : null
+
+赤経 : 22 : 8 : 14
+
+赤緯 : -46 : 57 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 39
+
+星のHID : 8636
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 42 : 40
+
+赤緯 : -46 : 53 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 39
+
+星のHID : 8675
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 48 : 33
+
+赤緯 : -51 : 19 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 39
+
+星のHID : 8747
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 0 : 53
+
+赤緯 : -52 : 45 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6779
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 7 : 33
+
+赤緯 : 28 : 45 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6703
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 57 : 46
+
+赤緯 : 29 : 14 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6623
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 46 : 28
+
+赤緯 : 27 : 43 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6526
+
+星の和名 : マシム
+
+星の英名 : Maasym
+
+星の実視等級 : null
+
+赤経 : 17 : 30 : 44
+
+赤緯 : 26 : 6 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6410
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 15 : 2
+
+赤緯 : 24 : 50 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6406
+
+星の和名 : ラス・アルゲチ
+
+星の英名 : Rasalgethi
+
+星の実視等級 : null
+
+赤経 : 17 : 14 : 39
+
+赤緯 : 14 : 23 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6148
+
+星の和名 : コルネフォロス
+
+星の英名 : Kornephoros
+
+星の実視等級 : null
+
+赤経 : 16 : 30 : 13
+
+赤緯 : 21 : 29 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6095
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 21 : 55
+
+赤緯 : 19 : 9 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6117
+
+星の和名 : クヤム
+
+星の英名 : Cujam
+
+星の実視等級 : null
+
+赤経 : 16 : 25 : 25
+
+赤緯 : 14 : 2 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6159
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 32 : 36
+
+赤緯 : 11 : 29 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6117
+
+星の和名 : クヤム
+
+星の英名 : Cujam
+
+星の実視等級 : null
+
+赤経 : 16 : 25 : 25
+
+赤緯 : 14 : 2 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6095
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 21 : 55
+
+赤緯 : 19 : 9 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6148
+
+星の和名 : コルネフォロス
+
+星の英名 : Kornephoros
+
+星の実視等級 : null
+
+赤経 : 16 : 30 : 13
+
+赤緯 : 21 : 29 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6212
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 41 : 17
+
+赤緯 : 31 : 36 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6220
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 42 : 54
+
+赤緯 : 38 : 55 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6168
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 34 : 6
+
+赤緯 : 42 : 26 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6092
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 19 : 44
+
+赤緯 : 46 : 18 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6023
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 8 : 46
+
+赤緯 : 44 : 56 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 5914
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 52 : 41
+
+赤緯 : 42 : 27 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6023
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 8 : 46
+
+赤緯 : 44 : 56 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6092
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 19 : 44
+
+赤緯 : 46 : 18 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6168
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 34 : 6
+
+赤緯 : 42 : 26 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6220
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 42 : 54
+
+赤緯 : 38 : 55 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6418
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 15 : 3
+
+赤緯 : 36 : 48 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6324
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 0 : 17
+
+赤緯 : 30 : 55 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6410
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 15 : 2
+
+赤緯 : 24 : 50 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6324
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 0 : 17
+
+赤緯 : 30 : 55 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6418
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 15 : 3
+
+赤緯 : 36 : 48 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6484
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 23 : 41
+
+赤緯 : 37 : 8 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6695
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 56 : 15
+
+赤緯 : 37 : 15 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 40
+
+星のHID : 6588
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 39 : 28
+
+赤緯 : 46 : 0 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 41
+
+星のHID : 778
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 37 : 24
+
+赤緯 : -52 : 32 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 41
+
+星のHID : 934
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 3 : 37
+
+赤緯 : -59 : 44 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 41
+
+星のHID : 909
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 58 : 48
+
+赤緯 : -64 : 4 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 41
+
+星のHID : 934
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 3 : 37
+
+赤緯 : -59 : 44 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 41
+
+星のHID : 1326
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 14 : 0
+
+赤緯 : -42 : 17 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3547
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 55 : 24
+
+赤緯 : 5 : 56 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3482
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 46 : 47
+
+赤緯 : 6 : 25 : 8
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3410
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 37 : 39
+
+赤緯 : 5 : 42 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3418
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 38 : 45
+
+赤緯 : 3 : 20 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3454
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 43 : 14
+
+赤緯 : 3 : 23 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3547
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 55 : 24
+
+赤緯 : 5 : 56 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3665
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 14 : 22
+
+赤緯 : 2 : 18 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3845
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 39 : 51
+
+赤緯 : -1 : 8 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3748
+
+星の和名 : アルファルド
+
+星の英名 : Alphard
+
+星の実視等級 : -1.7
+
+赤経 : 9 : 27 : 35
+
+赤緯 : -8 : 39 : 31
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3903
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 51 : 29
+
+赤緯 : -14 : 50 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3970
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 5 : 8
+
+赤緯 : -13 : 3 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 3994
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 10 : 35
+
+赤緯 : -12 : 21 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 4094
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 26 : 5
+
+赤緯 : -16 : 50 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 4232
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 49 : 38
+
+赤緯 : -16 : 11 : 37
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 4450
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 33 : 0
+
+赤緯 : -31 : 51 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 4552
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 52 : 55
+
+赤緯 : -33 : 54 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 5020
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 18 : 55
+
+赤緯 : -23 : 10 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 5287
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 6 : 22
+
+赤緯 : -26 : 40 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 42
+
+星のHID : 5526
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 50 : 17
+
+赤緯 : -27 : 57 : 37
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 43
+
+星のHID : 1208
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 47 : 14
+
+赤緯 : -74 : 14 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 43
+
+星のHID : 98
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 25 : 45
+
+赤緯 : -77 : 15 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 43
+
+星のHID : 591
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 58 : 46
+
+赤緯 : -61 : 34 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 44
+
+星のHID : 7869
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 37 : 34
+
+赤緯 : -47 : 17 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 44
+
+星のHID : 7920
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 44 : 2
+
+赤緯 : -51 : 55 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 44
+
+星のHID : 7986
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 54 : 49
+
+赤緯 : -58 : 27 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 44
+
+星のHID : 8368
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 57 : 55
+
+赤緯 : -54 : 59 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 45
+
+星のHID : 8498
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 15 : 58
+
+赤緯 : 37 : 44 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 45
+
+星のHID : 8579
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 30 : 29
+
+赤緯 : 43 : 7 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 45
+
+星のHID : 8632
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 40 : 31
+
+赤緯 : 44 : 16 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 45
+
+星のHID : 8523
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 21 : 2
+
+赤緯 : 46 : 32 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 45
+
+星のHID : 8572
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 29 : 32
+
+赤緯 : 47 : 42 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 45
+
+星のHID : 8541
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 24 : 31
+
+赤緯 : 49 : 28 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 45
+
+星のHID : 8585
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 31 : 18
+
+赤緯 : 50 : 16 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 45
+
+星のHID : 8538
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 23 : 34
+
+赤緯 : 52 : 13 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 3773
+
+星の和名 : アルテルフ
+
+星の英名 : Alterf
+
+星の実視等級 : null
+
+赤経 : 9 : 31 : 43
+
+赤緯 : 22 : 58 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 3873
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 45 : 51
+
+赤緯 : 23 : 46 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 3905
+
+星の和名 : ラサラス
+
+星の英名 : Rasalas
+
+星の実視等級 : null
+
+赤経 : 9 : 52 : 46
+
+赤緯 : 26 : 0 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 4031
+
+星の和名 : アダフェラ
+
+星の英名 : Adhafera
+
+星の実視等級 : null
+
+赤経 : 10 : 16 : 41
+
+赤緯 : 23 : 25 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 4057
+
+星の和名 : アルギエバ
+
+星の英名 : Algieba
+
+星の実視等級 : -0.92
+
+赤経 : 10 : 19 : 58
+
+赤緯 : 19 : 50 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 3975
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 7 : 20
+
+赤緯 : 16 : 45 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 4357
+
+星の和名 : ゾスマ
+
+星の英名 : Zosma
+
+星の実視等級 : null
+
+赤経 : 11 : 14 : 7
+
+赤緯 : 20 : 31 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 4534
+
+星の和名 : デネボラ
+
+星の英名 : Denebola
+
+星の実視等級 : null
+
+赤経 : 11 : 49 : 4
+
+赤緯 : 14 : 34 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 4359
+
+星の和名 : シェルタン
+
+星の英名 : Chertan
+
+星の実視等級 : null
+
+赤経 : 11 : 14 : 14
+
+赤緯 : 15 : 25 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 4399
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 23 : 56
+
+赤緯 : 10 : 31 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 4386
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 21 : 8
+
+赤緯 : 6 : 1 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 4399
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 23 : 56
+
+赤緯 : 10 : 31 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 4359
+
+星の和名 : シェルタン
+
+星の英名 : Chertan
+
+星の実視等級 : null
+
+赤経 : 11 : 14 : 14
+
+赤緯 : 15 : 25 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 3982
+
+星の和名 : レグルス
+
+星の英名 : Regulus
+
+星の実視等級 : 0.52
+
+赤経 : 10 : 8 : 22
+
+赤緯 : 11 : 58 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 46
+
+星のHID : 3975
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 7 : 20
+
+赤緯 : 16 : 45 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1705
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 13 : 14
+
+赤緯 : -12 : 56 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1702
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 12 : 56
+
+赤緯 : -16 : 12 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1756
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 19 : 35
+
+赤緯 : -13 : 10 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1702
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 12 : 56
+
+赤緯 : -16 : 12 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1865
+
+星の和名 : アルネブ
+
+星の英名 : Arneb
+
+星の実視等級 : null
+
+赤経 : 5 : 32 : 44
+
+赤緯 : -17 : 49 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1829
+
+星の和名 : ニハル
+
+星の英名 : Nihal
+
+星の実視等級 : null
+
+赤経 : 5 : 28 : 15
+
+赤緯 : -20 : 45 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1654
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 5 : 28
+
+赤緯 : -22 : 22 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1829
+
+星の和名 : ニハル
+
+星の英名 : Nihal
+
+星の実視等級 : null
+
+赤経 : 5 : 28 : 15
+
+赤緯 : -20 : 45 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1865
+
+星の和名 : アルネブ
+
+星の英名 : Arneb
+
+星の実視等級 : null
+
+赤経 : 5 : 32 : 44
+
+赤緯 : -17 : 49 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 2035
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 51 : 19
+
+赤緯 : -20 : 52 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1983
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 44 : 28
+
+赤緯 : -22 : 26 : 54
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 2035
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 51 : 19
+
+赤緯 : -20 : 52 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1998
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 46 : 57
+
+赤緯 : -14 : 49 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1865
+
+星の和名 : アルネブ
+
+星の英名 : Arneb
+
+星の実視等級 : null
+
+赤経 : 5 : 32 : 44
+
+赤緯 : -17 : 49 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 1998
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 46 : 57
+
+赤緯 : -14 : 49 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 2085
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 56 : 24
+
+赤緯 : -14 : 10 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 47
+
+星のHID : 2155
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 6 : 9
+
+赤緯 : -14 : 56 : 7
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 48
+
+星のHID : 5603
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 4 : 4
+
+赤緯 : -25 : 16 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 48
+
+星のHID : 5531
+
+星の和名 : ズベン・エルゲヌビ
+
+星の英名 : Zubenelgenubi
+
+星の実視等級 : null
+
+赤経 : 14 : 50 : 53
+
+赤緯 : -16 : 2 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 48
+
+星のHID : 5685
+
+星の和名 : ズベン・エルシェマリ
+
+星の英名 : Zubeneschamali
+
+星の実視等級 : null
+
+赤経 : 15 : 17 : 0
+
+赤緯 : -9 : 22 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 48
+
+星のHID : 5787
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 35 : 32
+
+赤緯 : -14 : 47 : 22
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 48
+
+星のHID : 5603
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 4 : 4
+
+赤緯 : -25 : 16 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 49
+
+星のHID : 3974
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 7 : 26
+
+赤緯 : 35 : 14 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 49
+
+星のHID : 4100
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 27 : 53
+
+赤緯 : 36 : 42 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 49
+
+星のHID : 4247
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 53 : 19
+
+赤緯 : 34 : 12 : 54
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5649
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 12 : 17
+
+赤緯 : -52 : 5 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5683
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 18 : 32
+
+赤緯 : -47 : 52 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5708
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 22 : 41
+
+赤緯 : -44 : 41 : 22
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5776
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 35 : 9
+
+赤緯 : -41 : 10 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5948
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 0 : 7
+
+赤緯 : -38 : 23 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5883
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 50 : 58
+
+赤緯 : -33 : 37 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5948
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 0 : 7
+
+赤緯 : -38 : 23 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5776
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 35 : 9
+
+赤緯 : -41 : 10 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5695
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 21 : 22
+
+赤緯 : -40 : 38 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5571
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 58 : 32
+
+赤緯 : -43 : 8 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 50
+
+星のHID : 5469
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 41 : 56
+
+赤緯 : -47 : 23 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 51
+
+星のHID : 2238
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 19 : 37
+
+赤緯 : 59 : 0 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 51
+
+星のHID : 2560
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 57 : 17
+
+赤緯 : 58 : 25 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 51
+
+星のHID : 2818
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 26 : 43
+
+赤緯 : 49 : 12 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 51
+
+星のHID : 3275
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 22 : 50
+
+赤緯 : 43 : 11 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 51
+
+星のHID : 3690
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 18 : 51
+
+赤緯 : 36 : 48 : 9
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 51
+
+星のHID : 3705
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 21 : 3
+
+赤緯 : 34 : 23 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 52
+
+星のHID : 7051
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 44 : 20
+
+赤緯 : 39 : 40 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 52
+
+星のHID : 7001
+
+星の和名 : ベガ
+
+星の英名 : Vega
+
+星の実視等級 : 0.58
+
+赤経 : 18 : 36 : 56
+
+赤緯 : 38 : 47 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 52
+
+星のHID : 7056
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 44 : 46
+
+赤緯 : 37 : 36 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 52
+
+星のHID : 7106
+
+星の和名 : シェリアク
+
+星の英名 : Sheliak
+
+星の実視等級 : null
+
+赤経 : 18 : 50 : 5
+
+赤緯 : 33 : 21 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 52
+
+星のHID : 7178
+
+星の和名 : スラファト
+
+星の英名 : Sulafat
+
+星の実視等級 : null
+
+赤経 : 18 : 58 : 57
+
+赤緯 : 32 : 41 : 22
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 52
+
+星のHID : 7139
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 54 : 30
+
+赤緯 : 36 : 53 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 52
+
+星のHID : 7056
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 44 : 46
+
+赤緯 : 37 : 36 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 53
+
+星のHID : 1677
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 2 : 43
+
+赤緯 : -71 : 18 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 53
+
+星のHID : 2261
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 10 : 14
+
+赤緯 : -74 : 45 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 53
+
+星のHID : 2689
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 56 : 34
+
+赤緯 : -79 : 25 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 54
+
+星のHID : 7965
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 49 : 58
+
+赤緯 : -33 : 46 : 47
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 54
+
+星のHID : 8039
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 1 : 18
+
+赤緯 : -32 : 15 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 54
+
+星のHID : 8048
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 2 : 58
+
+赤緯 : -38 : 37 : 54
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 55
+
+星のHID : 3188
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 8 : 36
+
+赤緯 : -2 : 59 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 55
+
+星のHID : 2714
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 11 : 52
+
+赤緯 : 0 : 29 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 55
+
+星のHID : 2506
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 47 : 52
+
+赤緯 : 2 : 24 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 55
+
+星のHID : 2298
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 23 : 46
+
+赤緯 : 4 : 35 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 55
+
+星のHID : 2385
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 32 : 54
+
+赤緯 : 7 : 19 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 55
+
+星のHID : 2298
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 23 : 46
+
+赤緯 : 4 : 35 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 55
+
+星のHID : 2356
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 28 : 49
+
+赤緯 : -7 : 1 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 55
+
+星のHID : 2298
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 23 : 46
+
+赤緯 : 4 : 35 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 55
+
+星のHID : 2227
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 14 : 51
+
+赤緯 : -6 : 16 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 56
+
+星のHID : 4520
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 45 : 36
+
+赤緯 : -66 : 43 : 43
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 56
+
+星のHID : 4671
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 17 : 34
+
+赤緯 : -67 : 57 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 56
+
+星のHID : 4798
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 37 : 11
+
+赤緯 : -69 : 8 : 8
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 56
+
+星のHID : 4844
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 46 : 17
+
+赤緯 : -68 : 6 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 56
+
+星のHID : 4923
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 2 : 16
+
+赤緯 : -71 : 32 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 56
+
+星のHID : 4773
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 32 : 28
+
+赤緯 : -72 : 7 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 56
+
+星のHID : 4798
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 37 : 11
+
+赤緯 : -69 : 8 : 8
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 57
+
+星のHID : 5980
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 6 : 29
+
+赤緯 : -45 : 10 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 57
+
+星のHID : 5962
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 3 : 13
+
+赤緯 : -49 : 13 : 47
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 57
+
+星のHID : 6072
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 19 : 50
+
+赤緯 : -50 : 9 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 57
+
+星のHID : 6115
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 27 : 11
+
+赤緯 : -47 : 33 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 58
+
+星のHID : 5339
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 26 : 55
+
+赤緯 : -83 : 40 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 58
+
+星のHID : 8630
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 46 : 3
+
+赤緯 : -81 : 22 : 54
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 58
+
+星のHID : 8254
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 41 : 29
+
+赤緯 : -77 : 23 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6104
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 24 : 6
+
+赤緯 : -20 : 2 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6112
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 25 : 35
+
+赤緯 : -23 : 26 : 50
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6147
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 31 : 8
+
+赤緯 : -16 : 36 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6075
+
+星の和名 : イェッド・ポステリオル
+
+星の英名 : Yed Posterior
+
+星の実視等級 : null
+
+赤経 : 16 : 18 : 19
+
+赤緯 : -4 : 41 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6056
+
+星の和名 : イェッド・プリオル
+
+星の英名 : Yed Prior
+
+星の実視等級 : null
+
+赤経 : 16 : 14 : 21
+
+赤緯 : -3 : 41 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6075
+
+星の和名 : イェッド・ポステリオル
+
+星の英名 : Yed Posterior
+
+星の実視等級 : null
+
+赤経 : 16 : 18 : 19
+
+赤緯 : -4 : 41 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6149
+
+星の和名 : マルフィク
+
+星の英名 : Marfic
+
+星の実視等級 : null
+
+赤経 : 16 : 30 : 55
+
+赤緯 : 1 : 59 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6299
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 57 : 40
+
+赤緯 : 9 : 22 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6556
+
+星の和名 : ラス・アルハゲ
+
+星の英名 : Rasalhague
+
+星の実視等級 : null
+
+赤経 : 17 : 34 : 56
+
+赤緯 : 12 : 33 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6603
+
+星の和名 : ケバルライ
+
+星の英名 : Cebalrai
+
+星の実視等級 : null
+
+赤経 : 17 : 43 : 28
+
+赤緯 : 4 : 34 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6629
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 47 : 54
+
+赤緯 : 2 : 42 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6698
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 59 : 2
+
+赤緯 : -9 : 46 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6378
+
+星の和名 : サビク
+
+星の英名 : Sabik
+
+星の実視等級 : null
+
+赤経 : 17 : 10 : 23
+
+赤緯 : -15 : 43 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6453
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 22 : 1
+
+赤緯 : -24 : 59 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6492
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 27 : 21
+
+赤緯 : -29 : 52 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6453
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 22 : 1
+
+赤緯 : -24 : 59 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6378
+
+星の和名 : サビク
+
+星の英名 : Sabik
+
+星の実視等級 : null
+
+赤経 : 17 : 10 : 23
+
+赤緯 : -15 : 43 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 59
+
+星のHID : 6147
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 31 : 8
+
+赤緯 : -16 : 36 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1601
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 58 : 33
+
+赤緯 : 1 : 42 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1567
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 54 : 15
+
+赤緯 : 2 : 26 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1552
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 51 : 12
+
+赤緯 : 5 : 36 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1543
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 49 : 50
+
+赤緯 : 6 : 57 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1544
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 50 : 37
+
+赤緯 : 8 : 54 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1570
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 54 : 54
+
+赤緯 : 10 : 9 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1580
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 56 : 22
+
+赤緯 : 13 : 30 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1638
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 4 : 34
+
+赤緯 : 15 : 24 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1790
+
+星の和名 : ベラトリックス
+
+星の英名 : Bellatrix
+
+星の実視等級 : null
+
+赤経 : 5 : 25 : 8
+
+赤緯 : 6 : 20 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1852
+
+星の和名 : ミンタカ
+
+星の英名 : Mintaka
+
+星の実視等級 : null
+
+赤経 : 5 : 32 : 0
+
+赤緯 : 0 : 17 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1788
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 24 : 29
+
+赤緯 : -2 : 23 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1713
+
+星の和名 : リゲル
+
+星の英名 : Rigel
+
+星の実視等級 : -7.2
+
+赤経 : 5 : 14 : 32
+
+赤緯 : -8 : 12 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 2004
+
+星の和名 : サイフ
+
+星の英名 : Saiph
+
+星の実視等級 : null
+
+赤経 : 5 : 47 : 45
+
+赤緯 : -9 : 40 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1948
+
+星の和名 : アルニタク
+
+星の英名 : Alnitak
+
+星の実視等級 : -5.25
+
+赤経 : 5 : 40 : 46
+
+赤緯 : -1 : 56 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 2061
+
+星の和名 : ベテルギウス
+
+星の英名 : Betelgeuse
+
+星の実視等級 : -5.14
+
+赤経 : 5 : 55 : 10
+
+赤緯 : 7 : 24 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1879
+
+星の和名 : メイサ
+
+星の英名 : Meissa
+
+星の実視等級 : null
+
+赤経 : 5 : 35 : 8
+
+赤緯 : 9 : 56 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1790
+
+星の和名 : ベラトリックス
+
+星の英名 : Bellatrix
+
+星の実視等級 : null
+
+赤経 : 5 : 25 : 8
+
+赤緯 : 6 : 20 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 1879
+
+星の和名 : メイサ
+
+星の英名 : Meissa
+
+星の実視等級 : null
+
+赤経 : 5 : 35 : 8
+
+赤緯 : 9 : 56 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 2061
+
+星の和名 : ベテルギウス
+
+星の英名 : Betelgeuse
+
+星の実視等級 : -5.14
+
+赤経 : 5 : 55 : 10
+
+赤緯 : 7 : 24 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 2124
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 2 : 23
+
+赤緯 : 9 : 38 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 2199
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 11 : 56
+
+赤緯 : 14 : 12 : 32
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 2159
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 7 : 34
+
+赤緯 : 14 : 46 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 2135
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 3 : 55
+
+赤緯 : 20 : 8 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 60
+
+星のHID : 2047
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 54 : 23
+
+赤緯 : 20 : 16 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 61
+
+星のHID : 7790
+
+星の和名 : ピーコック
+
+星の英名 : Peacock
+
+星の実視等級 : -1.81
+
+赤経 : 20 : 25 : 39
+
+赤緯 : -56 : 44 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 61
+
+星のHID : 8181
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 26 : 27
+
+赤緯 : -65 : 21 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 61
+
+星のHID : 7913
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 44 : 58
+
+赤緯 : -66 : 12 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 61
+
+星のHID : 7665
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 8 : 44
+
+赤緯 : -66 : 10 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 61
+
+星のHID : 7074
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 52 : 13
+
+赤緯 : -62 : 11 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 61
+
+星のHID : 6582
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 45 : 44
+
+赤緯 : -64 : 43 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 61
+
+星のHID : 6982
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 43 : 2
+
+赤緯 : -71 : 25 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 61
+
+星のHID : 7590
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 20 : 0 : 36
+
+赤緯 : -72 : 54 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 61
+
+星のHID : 8181
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 26 : 27
+
+赤緯 : -65 : 21 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8308
+
+星の和名 : エニフ
+
+星の英名 : Enif
+
+星の実視等級 : -4.19
+
+赤経 : 21 : 44 : 11
+
+赤緯 : 9 : 52 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8450
+
+星の和名 : ビハム
+
+星の英名 : Biham
+
+星の実視等級 : null
+
+赤経 : 22 : 10 : 12
+
+赤緯 : 6 : 11 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8634
+
+星の和名 : ホマン
+
+星の英名 : Homan
+
+星の実視等級 : null
+
+赤経 : 22 : 41 : 28
+
+赤緯 : 10 : 49 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8781
+
+星の和名 : マルカブ
+
+星の英名 : Markab
+
+星の実視等級 : null
+
+赤経 : 23 : 4 : 46
+
+赤緯 : 15 : 12 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 39
+
+星の和名 : アルゲニブ
+
+星の英名 : Algenib
+
+星の実視等級 : null
+
+赤経 : 0 : 13 : 14
+
+赤緯 : 15 : 11 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 15
+
+星の和名 : アルフェラッツ
+
+星の英名 : Alpheratz
+
+星の実視等級 : -0.3
+
+赤経 : 0 : 8 : 23
+
+赤緯 : 29 : 5 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8775
+
+星の和名 : シェアト
+
+星の英名 : Scheat
+
+星の実視等級 : null
+
+赤経 : 23 : 3 : 47
+
+赤緯 : 28 : 4 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8650
+
+星の和名 : マタル
+
+星の英名 : Matar
+
+星の実視等級 : null
+
+赤経 : 22 : 43 : 0
+
+赤緯 : 30 : 13 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8454
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 9 : 59
+
+赤緯 : 33 : 10 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8650
+
+星の和名 : マタル
+
+星の英名 : Matar
+
+星の実視等級 : null
+
+赤経 : 22 : 43 : 0
+
+赤緯 : 30 : 13 : 17
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8775
+
+星の和名 : シェアト
+
+星の英名 : Scheat
+
+星の実視等級 : null
+
+赤経 : 23 : 3 : 47
+
+赤緯 : 28 : 4 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8781
+
+星の和名 : マルカブ
+
+星の英名 : Markab
+
+星の実視等級 : null
+
+赤経 : 23 : 4 : 46
+
+赤緯 : 15 : 12 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8775
+
+星の和名 : シェアト
+
+星の英名 : Scheat
+
+星の実視等級 : null
+
+赤経 : 23 : 3 : 47
+
+赤緯 : 28 : 4 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8684
+
+星の和名 : サダルバリ
+
+星の英名 : Sadalbari
+
+星の実視等級 : null
+
+赤経 : 22 : 50 : 0
+
+赤緯 : 24 : 36 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8667
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 46 : 32
+
+赤緯 : 23 : 33 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8430
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 7 : 1
+
+赤緯 : 25 : 20 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 62
+
+星のHID : 8315
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 44 : 39
+
+赤緯 : 25 : 38 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 1261
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 6 : 35
+
+赤緯 : 50 : 21 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 1303
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 14 : 54
+
+赤緯 : 48 : 24 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 1273
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 8 : 40
+
+赤緯 : 47 : 42 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 1122
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 42 : 56
+
+赤緯 : 47 : 47 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 1017
+
+星の和名 : ミルファク
+
+星の英名 : Mirfak
+
+星の実視等級 : null
+
+赤経 : 3 : 24 : 19
+
+赤緯 : 49 : 51 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 915
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 4 : 48
+
+赤緯 : 53 : 30 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 834
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 50 : 42
+
+赤緯 : 55 : 53 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 496
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 43 : 40
+
+赤緯 : 50 : 41 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 834
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 50 : 42
+
+赤緯 : 55 : 53 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 915
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 4 : 48
+
+赤緯 : 53 : 30 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 854
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 54 : 16
+
+赤緯 : 52 : 45 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 799
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 44 : 12
+
+赤緯 : 49 : 13 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 936
+
+星の和名 : アルゴル
+
+星の英名 : Algol
+
+星の実視等級 : -0.15
+
+赤経 : 3 : 8 : 10
+
+赤緯 : 40 : 57 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 921
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 5 : 11
+
+赤緯 : 38 : 50 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 936
+
+星の和名 : アルゴル
+
+星の英名 : Algol
+
+星の実視等級 : -0.15
+
+赤経 : 3 : 8 : 10
+
+赤緯 : 40 : 57 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 799
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 44 : 12
+
+赤緯 : 49 : 13 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 941
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 9 : 30
+
+赤緯 : 44 : 51 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 1220
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 57 : 51
+
+赤緯 : 40 : 0 : 37
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 1228
+
+星の和名 : メンキブ
+
+星の英名 : Menkib
+
+星の実視等級 : null
+
+赤経 : 3 : 58 : 58
+
+赤緯 : 35 : 47 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 1203
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 54 : 8
+
+赤緯 : 31 : 53 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 63
+
+星のHID : 1131
+
+星の和名 : アティク
+
+星の英名 : Atik
+
+星の実視等級 : null
+
+赤経 : 3 : 44 : 19
+
+赤緯 : 32 : 17 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 64
+
+星のHID : 25
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 9 : 25
+
+赤緯 : -45 : 44 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 64
+
+星のHID : 99
+
+星の和名 : 
+
+星の英名 : Ankaa
+
+星の実視等級 : null
+
+赤経 : 0 : 26 : 17
+
+赤緯 : -42 : 18 : 22
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 64
+
+星のHID : 322
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 6 : 5
+
+赤緯 : -46 : 43 : 7
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 64
+
+星のHID : 429
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 28 : 22
+
+赤緯 : -43 : 19 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 64
+
+星のHID : 440
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 31 : 15
+
+赤緯 : -49 : 4 : 22
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 64
+
+星のHID : 322
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 6 : 5
+
+赤緯 : -46 : 43 : 7
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 64
+
+星のHID : 338
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 8 : 23
+
+赤緯 : -55 : 14 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 65
+
+星のHID : 2042
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 49 : 50
+
+赤緯 : -56 : 10 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 65
+
+星のHID : 2550
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 48 : 11
+
+赤緯 : -61 : 56 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 65
+
+星のHID : 2020
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 47 : 17
+
+赤緯 : -51 : 3 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 66
+
+星のHID : 8431
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 8 : 23
+
+赤緯 : -32 : 59 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 66
+
+星のHID : 8576
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 31 : 30
+
+赤緯 : -32 : 20 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 66
+
+星のHID : 8695
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 52 : 32
+
+赤緯 : -32 : 52 : 32
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 66
+
+星のHID : 8720
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 55 : 57
+
+赤緯 : -32 : 32 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 66
+
+星のHID : 8728
+
+星の和名 : フォーマルハウト
+
+星の英名 : Fomalhaut
+
+星の実視等級 : 1.73
+
+赤経 : 22 : 57 : 39
+
+赤緯 : -29 : 37 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 66
+
+星のHID : 8628
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 40 : 39
+
+赤緯 : -27 : 2 : 37
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 66
+
+星のHID : 8326
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 47 : 44
+
+赤緯 : -30 : 53 : 54
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 66
+
+星のHID : 8305
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 21 : 44 : 57
+
+赤緯 : -33 : 1 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 66
+
+星のHID : 8431
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 8 : 23
+
+赤緯 : -32 : 59 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 352
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 11 : 40
+
+赤緯 : 30 : 5 : 23
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 383
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 19 : 28
+
+赤緯 : 27 : 15 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 360
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 13 : 45
+
+赤緯 : 24 : 35 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 437
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 31 : 29
+
+赤緯 : 15 : 20 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 510
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 45 : 24
+
+赤緯 : 9 : 9 : 28
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 596
+
+星の和名 : アル・レシャ
+
+星の英名 : Alrescha
+
+星の実視等級 : null
+
+赤経 : 2 : 2 : 3
+
+赤緯 : 2 : 45 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 489
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 41 : 26
+
+赤緯 : 5 : 29 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 294
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 1 : 2 : 57
+
+赤緯 : 7 : 53 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 224
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 48 : 41
+
+赤緯 : 7 : 35 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 9072
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 59 : 19
+
+赤緯 : 6 : 51 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 8984
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 42 : 3
+
+赤緯 : 1 : 46 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 8911
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 26 : 56
+
+赤緯 : 1 : 15 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 8852
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 17 : 10
+
+赤緯 : 3 : 16 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 8916
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 27 : 58
+
+赤緯 : 6 : 22 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 8969
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 39 : 57
+
+赤緯 : 5 : 37 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 67
+
+星のHID : 9072
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 59 : 19
+
+赤緯 : 6 : 51 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 68
+
+星のHID : 2451
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 6 : 37 : 46
+
+赤緯 : -43 : 11 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 68
+
+星のHID : 2773
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 17 : 9
+
+赤緯 : -37 : 5 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 68
+
+星のHID : 3045
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 49 : 18
+
+赤緯 : -24 : 51 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 68
+
+星のHID : 3185
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 7 : 33
+
+赤緯 : -24 : 18 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 68
+
+星のHID : 3165
+
+星の和名 : ナオス
+
+星の英名 : Naos
+
+星の実視等級 : null
+
+赤経 : 8 : 3 : 35
+
+赤緯 : -40 : 0 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 68
+
+星のHID : 2773
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 17 : 9
+
+赤緯 : -37 : 5 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 69
+
+星のHID : 3438
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 40 : 6
+
+赤緯 : -35 : 18 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 69
+
+星のHID : 3468
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 43 : 36
+
+赤緯 : -33 : 11 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 69
+
+星のHID : 3518
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 50 : 32
+
+赤緯 : -27 : 42 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 70
+
+星のHID : 1175
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 44 : 12
+
+赤緯 : -64 : 48 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 70
+
+星のHID : 1336
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 14 : 26
+
+赤緯 : -62 : 28 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 70
+
+星のHID : 1355
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 16 : 29
+
+赤緯 : -59 : 18 : 7
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 70
+
+星のHID : 1247
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 58 : 45
+
+赤緯 : -61 : 24 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 70
+
+星のHID : 1175
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 44 : 12
+
+赤緯 : -64 : 48 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 71
+
+星のHID : 280
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 58 : 36
+
+赤緯 : -29 : 21 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 71
+
+星のHID : 9016
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 48 : 56
+
+赤緯 : -28 : 7 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 71
+
+星のHID : 8863
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 18 : 49
+
+赤緯 : -32 : 31 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 71
+
+星のHID : 8937
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 32 : 58
+
+赤緯 : -37 : 49 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 5928
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 56 : 53
+
+赤緯 : -29 : 12 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 5944
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 58 : 51
+
+赤緯 : -26 : 6 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 5953
+
+星の和名 : ドシュッバ
+
+星の英名 : Dschubba
+
+星の実視等級 : null
+
+赤経 : 16 : 0 : 20
+
+赤緯 : -22 : 37 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 5984
+
+星の和名 : アクラブ
+
+星の英名 : Acrab
+
+星の実視等級 : null
+
+赤経 : 16 : 5 : 26
+
+赤緯 : -19 : 48 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6027
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 12 : 0
+
+赤緯 : -19 : 27 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 5984
+
+星の和名 : アクラブ
+
+星の英名 : Acrab
+
+星の実視等級 : null
+
+赤経 : 16 : 5 : 26
+
+赤緯 : -19 : 48 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 5953
+
+星の和名 : ドシュッバ
+
+星の英名 : Dschubba
+
+星の実視等級 : null
+
+赤経 : 16 : 0 : 20
+
+赤緯 : -22 : 37 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6084
+
+星の和名 : アルニャート
+
+星の英名 : Al Niyat
+
+星の実視等級 : null
+
+赤経 : 16 : 21 : 11
+
+赤緯 : -25 : 35 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6134
+
+星の和名 : アンタレス
+
+星の英名 : Antares
+
+星の実視等級 : -5.18
+
+赤経 : 16 : 29 : 24
+
+赤緯 : -26 : 25 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6165
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 35 : 53
+
+赤緯 : -28 : 12 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6241
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 50 : 10
+
+赤緯 : -34 : 17 : 36
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6247
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 51 : 52
+
+赤緯 : -38 : 2 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6271
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 54 : 35
+
+赤緯 : -42 : 21 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6380
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 12 : 9
+
+赤緯 : -43 : 14 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6553
+
+星の和名 : 
+
+星の英名 : Girtab
+
+星の実視等級 : null
+
+赤経 : 17 : 37 : 19
+
+赤緯 : -42 : 59 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6615
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 47 : 35
+
+赤緯 : -40 : 7 : 37
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6580
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 42 : 29
+
+赤緯 : -39 : 1 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6508
+
+星の和名 : レサト
+
+星の英名 : Lesath
+
+星の実視等級 : null
+
+赤経 : 17 : 30 : 46
+
+赤緯 : -37 : 17 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 72
+
+星のHID : 6527
+
+星の和名 : シャウラ
+
+星の英名 : Shaula
+
+星の実視等級 : null
+
+赤経 : 17 : 33 : 37
+
+赤緯 : -37 : 6 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 73
+
+星のHID : 6930
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 29 : 12
+
+赤緯 : -14 : 33 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 73
+
+星のHID : 6973
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 35 : 12
+
+赤緯 : -8 : 14 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 73
+
+星のHID : 7063
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 47 : 11
+
+赤緯 : -4 : 44 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 73
+
+星のHID : 7020
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 42 : 16
+
+赤緯 : -9 : 3 : 9
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 5867
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 46 : 11
+
+赤緯 : 15 : 25 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 5842
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 41 : 33
+
+赤緯 : 19 : 40 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 5879
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 48 : 44
+
+赤緯 : 18 : 8 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 5933
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 56 : 27
+
+赤緯 : 15 : 39 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 5867
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 46 : 11
+
+赤緯 : 15 : 25 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 5788
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 34 : 48
+
+赤緯 : 10 : 32 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 5854
+
+星の和名 : ウヌク・アルハイ
+
+星の英名 : Unukalhai
+
+星の実視等級 : null
+
+赤経 : 15 : 44 : 16
+
+赤緯 : 6 : 25 : 32
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 5892
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 50 : 49
+
+赤緯 : 4 : 28 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 5881
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 49 : 37
+
+赤緯 : -3 : 25 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 6561
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 17 : 37 : 35
+
+赤緯 : -15 : 23 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 6869
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 21 : 19
+
+赤緯 : -2 : 53 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 74
+
+星のHID : 7141
+
+星の和名 : アリア
+
+星の英名 : Alya
+
+星の実視等級 : null
+
+赤経 : 18 : 56 : 13
+
+赤緯 : 4 : 12 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 75
+
+星のHID : 3909
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 52 : 30
+
+赤緯 : -8 : 6 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 75
+
+星のHID : 3981
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 7 : 56
+
+赤緯 : 0 : 22 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 75
+
+星のHID : 4119
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 30 : 18
+
+赤緯 : 0 : 38 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 76
+
+星のHID : 7479
+
+星の和名 : シャム
+
+星の英名 : Sham
+
+星の実視等級 : null
+
+赤経 : 19 : 40 : 6
+
+赤緯 : 18 : 0 : 50
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 76
+
+星のHID : 7536
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 47 : 23
+
+赤緯 : 18 : 32 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 76
+
+星のHID : 7488
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 41 : 3
+
+赤緯 : 17 : 28 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 76
+
+星のHID : 7536
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 47 : 23
+
+赤緯 : 18 : 32 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 76
+
+星のHID : 7635
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 58 : 45
+
+赤緯 : 19 : 29 : 32
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 6746
+
+星の和名 : アル・ナスル
+
+星の英名 : Alnasl
+
+星の実視等級 : null
+
+赤経 : 18 : 5 : 49
+
+赤緯 : -30 : 25 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 6859
+
+星の和名 : カウス・メディア
+
+星の英名 : Kaus Media
+
+星の実視等級 : null
+
+赤経 : 18 : 21 : 0
+
+赤緯 : -29 : 49 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 6879
+
+星の和名 : カウス・アウストラリス
+
+星の英名 : Kaus Australis
+
+星の実視等級 : -1.45
+
+赤経 : 18 : 24 : 10
+
+赤緯 : -34 : 23 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 6832
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 17 : 38
+
+赤緯 : -36 : 45 : 42
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 6879
+
+星の和名 : カウス・アウストラリス
+
+星の英名 : Kaus Australis
+
+星の実視等級 : -1.45
+
+赤経 : 18 : 24 : 10
+
+赤緯 : -34 : 23 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 6859
+
+星の和名 : カウス・メディア
+
+星の英名 : Kaus Media
+
+星の実視等級 : null
+
+赤経 : 18 : 21 : 0
+
+赤緯 : -29 : 49 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 7039
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 45 : 39
+
+赤緯 : -26 : 59 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 6913
+
+星の和名 : カウス・ボレアリス
+
+星の英名 : Kaus Borealis
+
+星の実視等級 : null
+
+赤経 : 18 : 27 : 58
+
+赤緯 : -25 : 25 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 6812
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 13 : 46
+
+赤緯 : -21 : 3 : 32
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 6913
+
+星の和名 : カウス・ボレアリス
+
+星の英名 : Kaus Borealis
+
+星の実視等級 : null
+
+赤経 : 18 : 27 : 58
+
+赤緯 : -25 : 25 : 18
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 7039
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 45 : 39
+
+赤緯 : -26 : 59 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 7121
+
+星の和名 : ヌンキ
+
+星の英名 : Nunki
+
+星の実視等級 : null
+
+赤経 : 18 : 55 : 16
+
+赤緯 : -26 : 17 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 7234
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 6 : 56
+
+赤緯 : -27 : 40 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 77
+
+星のHID : 7194
+
+星の和名 : アスケラ
+
+星の英名 : Ascella
+
+星の実視等級 : null
+
+赤経 : 19 : 2 : 37
+
+赤緯 : -29 : 52 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1910
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 5 : 37 : 39
+
+赤緯 : 21 : 8 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1457
+
+星の和名 : アルデバラン
+
+星の英名 : Aldebaran
+
+星の実視等級 : -0.65
+
+赤経 : 4 : 35 : 55
+
+赤緯 : 16 : 30 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1412
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 28 : 40
+
+赤緯 : 15 : 52 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1346
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 19 : 48
+
+赤緯 : 15 : 37 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1239
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 0 : 41
+
+赤緯 : 12 : 29 : 25
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1030
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 24 : 49
+
+赤緯 : 9 : 1 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1251
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 3 : 9
+
+赤緯 : 5 : 59 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1101
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 36 : 52
+
+赤緯 : 0 : 24 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1251
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 3 : 9
+
+赤緯 : 5 : 59 : 21
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1030
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 24 : 49
+
+赤緯 : 9 : 1 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1038
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 3 : 27 : 10
+
+赤緯 : 9 : 43 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1373
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 22 : 56
+
+赤緯 : 17 : 32 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1346
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 19 : 48
+
+赤緯 : 15 : 37 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1373
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 4 : 22 : 56
+
+赤緯 : 17 : 32 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1409
+
+星の和名 : アイン
+
+星の英名 : Ain
+
+星の実視等級 : null
+
+赤経 : 4 : 28 : 37
+
+赤緯 : 19 : 10 : 49
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 78
+
+星のHID : 1791
+
+星の和名 : エルナト
+
+星の英名 : Elnath
+
+星の実視等級 : -1.37
+
+赤経 : 5 : 26 : 18
+
+赤緯 : 28 : 36 : 27
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 79
+
+星のHID : 6783
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 11 : 14
+
+赤緯 : -45 : 57 : 16
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 79
+
+星のHID : 6897
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 26 : 58
+
+赤緯 : -45 : 58 : 6
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 79
+
+星のHID : 6905
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 18 : 28 : 50
+
+赤緯 : -49 : 4 : 15
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 80
+
+星のHID : 5671
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 18 : 55
+
+赤緯 : -68 : 40 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 80
+
+星のHID : 5897
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 55 : 9
+
+赤緯 : -63 : 25 : 50
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 80
+
+星のHID : 6217
+
+星の和名 : アトリア
+
+星の英名 : Atria
+
+星の実視等級 : -3.61
+
+赤経 : 16 : 48 : 40
+
+赤緯 : -69 : 1 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 80
+
+星のHID : 5671
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 18 : 55
+
+赤緯 : -68 : 40 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 81
+
+星のHID : 544
+
+星の和名 : メタラー
+
+星の英名 : Mothallah
+
+星の実視等級 : null
+
+赤経 : 1 : 53 : 5
+
+赤緯 : 29 : 34 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 81
+
+星のHID : 622
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 9 : 33
+
+赤緯 : 34 : 59 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 81
+
+星のHID : 664
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 2 : 17 : 19
+
+赤緯 : 33 : 50 : 50
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 81
+
+星のHID : 544
+
+星の和名 : メタラー
+
+星の英名 : Mothallah
+
+星の実視等級 : null
+
+赤経 : 1 : 53 : 5
+
+赤緯 : 29 : 34 : 44
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 82
+
+星のHID : 8540
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 27 : 20
+
+赤緯 : -64 : 57 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 82
+
+星のHID : 8502
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 22 : 18 : 30
+
+赤緯 : -60 : 15 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 82
+
+星のHID : 8848
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 17 : 26
+
+赤緯 : -58 : 14 : 9
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 82
+
+星のHID : 126
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 31 : 33
+
+赤緯 : -62 : 57 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 82
+
+星のHID : 77
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 0 : 20 : 4
+
+赤緯 : -64 : 52 : 29
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 82
+
+星のHID : 9076
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 59 : 55
+
+赤緯 : -65 : 34 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 82
+
+星のHID : 8848
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 23 : 17 : 26
+
+赤緯 : -58 : 14 : 9
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 3569
+
+星の和名 : タリタ
+
+星の英名 : Talitha
+
+星の実視等級 : null
+
+赤経 : 8 : 59 : 12
+
+赤緯 : 48 : 2 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 3594
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 3 : 38
+
+赤緯 : 47 : 9 : 24
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 3775
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 32 : 51
+
+赤緯 : 51 : 40 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 3888
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 50 : 59
+
+赤緯 : 59 : 2 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 3757
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 31 : 32
+
+赤緯 : 63 : 3 : 43
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 3323
+
+星の和名 : ムシダ
+
+星の英名 : Muscida
+
+星の実視等級 : null
+
+赤経 : 8 : 30 : 16
+
+赤緯 : 60 : 43 : 5
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 3888
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 50 : 59
+
+赤緯 : 59 : 2 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 3775
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 32 : 51
+
+赤緯 : 51 : 40 : 38
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4518
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 46 : 3
+
+赤緯 : 47 : 46 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4335
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 9 : 40
+
+赤緯 : 44 : 29 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4069
+
+星の和名 : タニア・アウストラリス
+
+星の英名 : Tania Australis
+
+星の実視等級 : null
+
+赤経 : 10 : 22 : 20
+
+赤緯 : 41 : 29 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4033
+
+星の和名 : タニア・ボレアリス
+
+星の英名 : Tania Borealis
+
+星の実視等級 : null
+
+赤経 : 10 : 17 : 6
+
+赤緯 : 42 : 54 : 52
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4069
+
+星の和名 : タニア・アウストラリス
+
+星の英名 : Tania Australis
+
+星の実視等級 : null
+
+赤経 : 10 : 22 : 20
+
+赤緯 : 41 : 29 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4335
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 9 : 40
+
+赤緯 : 44 : 29 : 55
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4518
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 46 : 3
+
+赤緯 : 47 : 46 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4377
+
+星の和名 : アルラ・ボレアリス
+
+星の英名 : Alula Borealis
+
+星の実視等級 : null
+
+赤経 : 11 : 18 : 29
+
+赤緯 : 33 : 5 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4375
+
+星の和名 : アルラ・アウストラリス
+
+星の英名 : Alula Australis
+
+星の実視等級 : null
+
+赤経 : 11 : 18 : 11
+
+赤緯 : 31 : 31 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4377
+
+星の和名 : アルラ・ボレアリス
+
+星の英名 : Alula Borealis
+
+星の実視等級 : null
+
+赤経 : 11 : 18 : 29
+
+赤緯 : 33 : 5 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4518
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 46 : 3
+
+赤緯 : 47 : 46 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4554
+
+星の和名 : フェクダ
+
+星の英名 : Phecda
+
+星の実視等級 : null
+
+赤経 : 11 : 53 : 50
+
+赤緯 : 53 : 41 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4660
+
+星の和名 : メグレズ
+
+星の英名 : Megrez
+
+星の実視等級 : null
+
+赤経 : 12 : 15 : 26
+
+赤緯 : 57 : 1 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4554
+
+星の和名 : フェクダ
+
+星の英名 : Phecda
+
+星の実視等級 : null
+
+赤経 : 11 : 53 : 50
+
+赤緯 : 53 : 41 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4295
+
+星の和名 : メラク
+
+星の英名 : Merak
+
+星の実視等級 : null
+
+赤経 : 11 : 1 : 51
+
+赤緯 : 56 : 22 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4301
+
+星の和名 : ドゥベ
+
+星の英名 : Dubhe
+
+星の実視等級 : null
+
+赤経 : 11 : 3 : 44
+
+赤緯 : 61 : 45 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 3888
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 50 : 59
+
+赤緯 : 59 : 2 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4301
+
+星の和名 : ドゥベ
+
+星の英名 : Dubhe
+
+星の実視等級 : null
+
+赤経 : 11 : 3 : 44
+
+赤緯 : 61 : 45 : 3
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4660
+
+星の和名 : メグレズ
+
+星の英名 : Megrez
+
+星の実視等級 : null
+
+赤経 : 12 : 15 : 26
+
+赤緯 : 57 : 1 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 4905
+
+星の和名 : アリオト
+
+星の英名 : Alioth
+
+星の実視等級 : -0.22
+
+赤経 : 12 : 54 : 2
+
+赤緯 : 55 : 57 : 35
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 5054
+
+星の和名 : ミザール
+
+星の英名 : Mizar
+
+星の実視等級 : null
+
+赤経 : 13 : 23 : 56
+
+赤緯 : 54 : 55 : 31
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 83
+
+星のHID : 5191
+
+星の和名 : アルカイド
+
+星の英名 : Alkaid
+
+星の実視等級 : null
+
+赤経 : 13 : 47 : 32
+
+赤緯 : 49 : 18 : 48
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 84
+
+星のHID : 424
+
+星の和名 : ポラリス
+
+星の英名 : Polaris
+
+星の実視等級 : -3.64
+
+赤経 : 2 : 31 : 49
+
+赤緯 : 89 : 15 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 84
+
+星のHID : 6789
+
+星の和名 : 
+
+星の英名 : Yildun
+
+星の実視等級 : null
+
+赤経 : 17 : 32 : 13
+
+赤緯 : 86 : 35 : 11
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 84
+
+星のHID : 6322
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 45 : 58
+
+赤緯 : 82 : 2 : 14
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 84
+
+星のHID : 5903
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 15 : 44 : 4
+
+赤緯 : 77 : 47 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 84
+
+星のHID : 6116
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 16 : 17 : 30
+
+赤緯 : 75 : 45 : 19
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 84
+
+星のHID : 5735
+
+星の和名 : フェルカド
+
+星の英名 : Pherkad
+
+星の実視等級 : null
+
+赤経 : 15 : 20 : 44
+
+赤緯 : 71 : 50 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 84
+
+星のHID : 5563
+
+星の和名 : コカブ
+
+星の英名 : Kochab
+
+星の実視等級 : null
+
+赤経 : 14 : 50 : 42
+
+赤緯 : 74 : 9 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 85
+
+星のHID : 3207
+
+星の和名 : 
+
+星の英名 : Regor
+
+星の実視等級 : null
+
+赤経 : 8 : 9 : 32
+
+赤緯 : -47 : 20 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 85
+
+星のHID : 3485
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 44 : 42
+
+赤緯 : -54 : 42 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 85
+
+星のHID : 3734
+
+星の和名 : マルカブ
+
+星の英名 : Markeb
+
+星の実視等級 : null
+
+赤経 : 9 : 22 : 7
+
+赤緯 : -55 : 0 : 39
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 85
+
+星のHID : 3940
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 56 : 52
+
+赤緯 : -54 : 34 : 4
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 85
+
+星のHID : 4216
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 10 : 46 : 46
+
+赤緯 : -49 : 25 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 85
+
+星のHID : 3786
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 30 : 42
+
+赤緯 : -40 : 28 : 0
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 85
+
+星のHID : 3634
+
+星の和名 : スハイル
+
+星の英名 : Suhail
+
+星の実視等級 : null
+
+赤経 : 9 : 8 : 0
+
+赤緯 : -43 : 25 : 57
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 85
+
+星のHID : 3207
+
+星の和名 : 
+
+星の英名 : Regor
+
+星の実視等級 : null
+
+赤経 : 8 : 9 : 32
+
+赤緯 : -47 : 20 : 12
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4517
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 11 : 45 : 52
+
+赤緯 : 6 : 31 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4608
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 5 : 13
+
+赤緯 : 8 : 43 : 59
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4932
+
+星の和名 : ビンデミアトリクス
+
+星の英名 : Vindemiatrix
+
+星の実視等級 : null
+
+赤経 : 13 : 2 : 11
+
+赤緯 : 10 : 57 : 33
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4910
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 55 : 36
+
+赤緯 : 3 : 23 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 5264
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 1 : 39
+
+赤緯 : 1 : 32 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 5511
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 46 : 15
+
+赤緯 : 1 : 53 : 34
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 5264
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 1 : 39
+
+赤緯 : 1 : 32 : 40
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4910
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 55 : 36
+
+赤緯 : 3 : 23 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 5107
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 34 : 42
+
+赤緯 : 0 : 35 : 45
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4910
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 12 : 55 : 36
+
+赤緯 : 3 : 23 : 51
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4825
+
+星の和名 : ポリマ
+
+星の英名 : Porrima
+
+星の実視等級 : null
+
+赤経 : 12 : 41 : 40
+
+赤緯 : -1 : 26 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4963
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 9 : 57
+
+赤緯 : -5 : 32 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 5338
+
+星の和名 : シルマ
+
+星の英名 : Syrma
+
+星の実視等級 : null
+
+赤経 : 14 : 16 : 1
+
+赤緯 : -6 : 0 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 5487
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 14 : 43 : 4
+
+赤緯 : -5 : 39 : 30
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 5338
+
+星の和名 : シルマ
+
+星の英名 : Syrma
+
+星の実視等級 : null
+
+赤経 : 14 : 16 : 1
+
+赤緯 : -6 : 0 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4963
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 9 : 57
+
+赤緯 : -5 : 32 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 5056
+
+星の和名 : スピカ
+
+星の英名 : Spica
+
+星の実視等級 : -3.55
+
+赤経 : 13 : 25 : 12
+
+赤緯 : -11 : 9 : 41
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4963
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 13 : 9 : 57
+
+赤緯 : -5 : 32 : 20
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4825
+
+星の和名 : ポリマ
+
+星の英名 : Porrima
+
+星の実視等級 : null
+
+赤経 : 12 : 41 : 40
+
+赤緯 : -1 : 26 : 58
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4689
+
+星の和名 : ザニアー
+
+星の英名 : Zaniah
+
+星の実視等級 : null
+
+赤経 : 12 : 19 : 54
+
+赤緯 : 0 : 40 : 1
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 86
+
+星のHID : 4540
+
+星の和名 : ザビジャー
+
+星の英名 : Zavijava
+
+星の実視等級 : null
+
+赤経 : 11 : 50 : 42
+
+赤緯 : 1 : 45 : 53
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 87
+
+星のHID : 2736
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 8 : 45
+
+赤緯 : -70 : 29 : 56
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 87
+
+星のHID : 3223
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 7 : 56
+
+赤緯 : -68 : 37 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 87
+
+星のHID : 2803
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 7 : 16 : 50
+
+赤緯 : -67 : 57 : 26
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 87
+
+星のHID : 3223
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 7 : 56
+
+赤緯 : -68 : 37 : 2
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 87
+
+星のHID : 3347
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 8 : 25 : 44
+
+赤緯 : -66 : 8 : 13
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 87
+
+星のHID : 3615
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 9 : 2 : 27
+
+赤緯 : -66 : 23 : 46
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 88
+
+星のHID : 7405
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 28 : 42
+
+赤緯 : 24 : 39 : 54
+
+complete read xml!!
+
+star regist complete!!
+
+Download Start!!
+
+DownLoad Compleate!!
+
+start read xml
+
+親星座ID : 88
+
+星のHID : 7592
+
+星の和名 : 
+
+星の英名 : 
+
+星の実視等級 : null
+
+赤経 : 19 : 53 : 28
+
+赤緯 : 24 : 4 : 47
+
+complete read xml!!
+
+star regist complete!!
+
+info ready complete!!
+
